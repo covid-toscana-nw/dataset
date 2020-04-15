@@ -1,964 +1,963 @@
-﻿Data;Area;Comune;Decessi;Guarigioni Virali;Guarigioni cliniche;;
-2020-02-29;Apuane;Carrara;;;;;
-2020-02-29;Lunigiana;Aulla;;;;;
-2020-03-01;Apuane;Carrara;;;;;
-2020-03-03;Piana di Lucca;Capannori;;;;;
-2020-03-03;Versilia;Viareggio ;;;;;
-2020-03-04;Lunigiana;Pontremoli ;;;;;
-2020-03-04;Zona Pisana;Pisa2;;;;;
-2020-03-04;Zona Livornese;Livorno ;;;;;
-2020-03-04;Zona Livornese;Livorno2;;;;;
-2020-03-05;Lunigiana;Licciana Nardi ;;;;;
-2020-03-05;Piana di Lucca;Capannori ;;;;;
-2020-03-05;Zona Pisana;San Giuliano Terme ;;;;;
-2020-03-05;Versilia;Viareggio ;;;;;
-2020-03-06;Lunigiana;Mulazzo;;;;;
-2020-03-06;Lunigiana;Fivizzano ;;;;;
-2020-03-06;Piana di Lucca;Lucca ;;;;;
-2020-03-06;Zona Pisana;Pisa ;;;;;
-2020-03-06;Zona Pisana;Cascina ;;;;;
-2020-03-06;Zona Livornese;Livorno ;;;;;
-2020-03-07;Apuane;Massa ;;;;;
-2020-03-07;Lunigiana;Pontremoli ;;;;;
-2020-03-07;Lunigiana;Filattiera ;;;;;
-2020-03-07;Piana di Lucca;Capannori ;;;;;
-2020-03-07;Piana di Lucca;Porcari ;;;;;
-2020-03-07;Zona Pisana;Pisa ;;;;;
-2020-03-07;Zona Pisana;Volterra ;;;;;
-2020-03-07;Versilia;Seravezza;;;;;
-2020-03-08;Apuane;Massa ;;;;;
-2020-03-08;Lunigiana;Mulazzo ;;;;;
-2020-03-08;Lunigiana;Licciana Nardi ;;;;;
-2020-03-08;Lunigiana;Villafranca in Lunigiana ;;;;;
-2020-03-08;Lunigiana;Zeri ;;;;;
-2020-03-08;Piana di Lucca;Lucca;;;;;
-2020-03-08;Piana di Lucca;Capannori ;;;;;
-2020-03-08;Piana di Lucca;Porcari ;;;;;
-2020-03-08;Zona Pisana;Pisa ;1;;;;
-2020-03-08;Zona Pisana;Calcinaia ;;;;;
-2020-03-08;Zona Pisana;Santa Maria a Monte ;;;;;
-2020-03-08;Zona Livornese;Livorno ;;;;;
-2020-03-08;Zona Livornese;Piombino ;;;;;
-2020-03-08;Versilia;Seravezza ;;;;;
-2020-03-08;Versilia;Viareggio ;;;;;
-2020-03-08;Versilia;Massarosa ;;;;;
-2020-03-08;Versilia;Camaiore ;;;;;
-2020-03-08;Versilia;Forte dei Marmi ;;;;;
-2020-03-10;Apuane;Massa;;;;;
-2020-03-10;Apuane;Sarzana;;;;;
-2020-03-10;Lunigiana;Aulla ;;;;;
-2020-03-10;Lunigiana;Pontremoli ;;;;;
-2020-03-10;Lunigiana;Mulazzo ;;;;;
-2020-03-10;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-03-10;Lunigiana;Bagnone ;;;;;
-2020-03-10;Piana di Lucca;Lucca;;;;;
-2020-03-10;Piana di Lucca;Capannori;;;;;
-2020-03-10;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-03-10;Zona Pisana;Pisa ;;;;;
-2020-03-10;Zona Pisana;Pomarance ;;;;;
-2020-03-10;Zona Pisana;Pontedera ;;;;;
-2020-03-10;Zona Livornese;Livorno ;;;;;
-2020-03-10;Versilia;Viareggio ;;;;;
-2020-03-11;Apuane;Massa;;;;;
-2020-03-11;Lunigiana;Pontremoli ;;;;;
-2020-03-11;Lunigiana;Mulazzo;1;;;;
-2020-03-11;Lunigiana;Villafranca in Lunigiana;1;;;;
-2020-03-11;Piana di Lucca;Lucca;1;;;;
-2020-03-11;Piana di Lucca;Capannori;;;;;
-2020-03-11;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-03-11;Zona Pisana;Cascina ;;;;;
-2020-03-11;Zona Pisana;San Giuliano Terme ;;;;;
-2020-03-11;Zona Pisana;Calci ;;;;;
-2020-03-11;Zona Pisana;Peccioli ;;;;;
-2020-03-11;Versilia;Viareggio ;;;;;
-2020-03-11;Versilia;Massarosa ;;;;;
-2020-03-11;Versilia;Stazzema ;;;;;
-2020-03-12;Apuane;Massa;;;;;
-2020-03-12;Apuane;Montignoso ;;;;;
-2020-03-12;Lunigiana;Aulla;;;;;
-2020-03-12;Lunigiana;Mulazzo ;;;;;
-2020-03-12;Lunigiana;Fosdinovo;;;;;
-2020-03-12;Piana di Lucca;Lucca;;;;;
-2020-03-12;Zona Pisana;Pisa;;;;;
-2020-03-12;Zona Livornese;Livorno ;;;;;
-2020-03-12;Versilia;Seravezza ;;;;;
-2020-03-12;Versilia;Viareggio ;;;;;
-2020-03-12;Versilia;Pietrasanta ;;;;;
-2020-03-13;Apuane;Massa;;;;;
-2020-03-13;Apuane;Carrara;;;;;
-2020-03-13;Lunigiana;Aulla;;;;;
-2020-03-13;Lunigiana;Pontremoli ;;;;;
-2020-03-13;Lunigiana;Mulazzo ;;;;;
-2020-03-13;Piana di Lucca;Lucca;;;;;
-2020-03-13;Piana di Lucca;Capannori;;;;;
-2020-03-13;Zona Pisana;Pisa ;;;;;
-2020-03-13;Zona Pisana;Cascina ;;;;;
-2020-03-13;Zona Pisana;Santa Maria a Monte ;;;;;
-2020-03-13;Zona Livornese;Livorno ;;;;;
-2020-03-13;Zona Livornese;Piombino ;;;;;
-2020-03-13;Versilia;Viareggio ;;;;;
-2020-03-13;Versilia;Camaiore ;;;;;
-2020-03-14;Apuane;Massa ;;;;;
-2020-03-14;Apuane;Carrara ;;;;;
-2020-03-14;Apuane;Montignoso ;;;;;
-2020-03-14;Lunigiana;Pontremoli ;;;;;
-2020-03-14;Lunigiana;Mulazzo ;;;;;
-2020-03-14;Lunigiana;Fivizzano ;;;;;
-2020-03-14;Lunigiana;Villafranca in Lunigiana ;;;;;
-2020-03-14;Lunigiana;Zeri ;;;;;
-2020-03-14;Lunigiana;Casola in Lunigiana ;;;;;
-2020-03-14;Piana di Lucca;Lucca;1;;;;
-2020-03-14;Zona Pisana;Pisa ;;;;;
-2020-03-14;Zona Pisana;Vecchiano ;;;;;
-2020-03-14;Zona Pisana;Pontedera ;;;;;
-2020-03-14;Zona Pisana;Pomarance ;;;;;
-2020-03-14;Zona Pisana;Volterra ;;;;;
-2020-03-14;Zona Pisana;Lajatico ;;;;;
-2020-03-14;Zona Pisana;Santa Maria a Monte ;;;;;
-2020-03-14;Zona Livornese;Livorno ;1;;;;
-2020-03-14;Versilia;Seravezza ;;;;;
-2020-03-14;Versilia;Viareggio ;;;;;
-2020-03-14;Versilia;Massarosa ;;;;;
-2020-03-14;Versilia;Camaiore ;;;;;
-2020-03-15;Apuane;Carrara;;;;;
-2020-03-15;Apuane;Massa;;;;;
-2020-03-15;Lunigiana;Pontremoli ;;;;;
-2020-03-15;Lunigiana;Fivizzano;;;;;
-2020-03-15;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-03-15;Piana di Lucca;Lucca;;;;;
-2020-03-15;Piana di Lucca;Capannori;;;;;
-2020-03-15;Piana di Lucca;Altopascio ;;;;;
-2020-03-15;Piana di Lucca;Montecarlo ;;;;;
-2020-03-15;Piana di Lucca;Porcari;;;;;
-2020-03-15;Piana di Lucca;Villa Basilica;;;;;
-2020-03-15;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-03-15;Valle del Serchio;Barga;;;;;
-2020-03-15;Valle del Serchio;Coreglia Antelminelli;;;;;
-2020-03-15;Valle del Serchio;Borgo a Mozzano;;;;;
-2020-03-15;Valle del Serchio;Fabbriche di Vergemoli;;;;;
-2020-03-15;Valle del Serchio;Pieve Fosciana;;;;;
-2020-03-15;Zona Pisana;Pisa;;;;;
-2020-03-15;Zona Pisana;Cascina ;;;;;
-2020-03-15;Zona Pisana;San Giuliano Terme ;;;;;
-2020-03-15;Zona Pisana;Ponsacco ;;;;;
-2020-03-15;Zona Pisana;Bientina ;;;;;
-2020-03-15;Zona Pisana;Volterra ;;;;;
-2020-03-15;Zona Pisana;Calci ;;;;;
-2020-03-15;Zona Pisana;Terricciola ;;;;;
-2020-03-15;Zona Pisana;Santa Maria a Monte ;;;;;
-2020-03-15;Zona Livornese;Livorno ;;;;;
-2020-03-15;Zona Livornese;Cecina ;;;;;
-2020-03-15;Zona Livornese;Rosignano Marittimo ;;;;;
-2020-03-15;Zona Livornese;Piombino ;;;;;
-2020-03-15;Zona Livornese;Collesalvetti ;;;;;
-2020-03-15;Zona Livornese;Campiglia Marittima ;;;;;
-2020-03-15;Versilia;Seravezza ;;;;;
-2020-03-15;Versilia;Viareggio ;;;;;
-2020-03-15;Versilia;Pietrasanta ;;;;;
-2020-03-15;Versilia;Massarosa ;;;;;
-2020-03-15;Versilia;Camaiore ;;;;;
-2020-03-15;Versilia;Forte dei Marmi ;;;;;
-2020-03-15;Versilia;Stazzema ;;;;;
-2020-03-17;Apuane;Carrara;;;;;
-2020-03-17;Lunigiana;Pontremoli ;;;;;
-2020-03-17;Piana di Lucca;Lucca;;;;;
-2020-03-17;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-03-17;Zona Pisana;Pisa;;;;;
-2020-03-17;Valdera;Valdera;;;;;
-2020-03-17;Zona Livornese;Livorno;;;;;
-2020-03-17;Versilia;Viareggio ;;;;;
-2020-03-18;Apuane;Carrara;;;;;
-2020-03-18;Lunigiana;Pontremoli ;;;;;
-2020-03-18;Piana di Lucca;Lucca;;;;;
-2020-03-18;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-03-18;Zona Pisana;Pisa;;;;;
-2020-03-18;Valdera;Valdera;;;;;
-2020-03-18;Zona Livornese;Livorno;;;;;
-2020-03-18;Val di Cornia;Val di Cornia;;;;;
-2020-03-18;Versilia;Viareggio ;;;;;
-2020-03-19;Apuane;Carrara;;;;;
-2020-03-19;Lunigiana;Pontremoli ;;;;;
-2020-03-19;Piana di Lucca;Lucca;;;;;
-2020-03-19;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-03-19;Zona Pisana;Pisa;;;;;
-2020-03-19;Valdera;Valdera;;;;;
-2020-03-19;Zona Livornese;Livorno;;;;;
-2020-03-19;Val di Cornia;Val di Cornia;;;;;
-2020-03-19;Versilia;Viareggio ;;;;;
-2020-03-20;Apuane;Carrara;;;;;
-2020-03-20;Lunigiana;Pontremoli ;;;;;
-2020-03-20;Piana di Lucca;Lucca;;;;;
-2020-03-20;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-03-20;Zona Pisana;Pisa;;;;;
-2020-03-20;Valdera;Valdera;;;;;
-2020-03-20;Zona Livornese;Livorno;;;;;
-2020-03-20;Val di Cornia;Val di Cornia;;;;;
-2020-03-20;Versilia;Viareggio ;;;;;
-2020-03-21;Apuane;Carrara;1;;;;
-2020-03-21;Apuane;Massa;2;;;;
-2020-03-21;Lunigiana;Aulla;1;;;;
-2020-03-21;Lunigiana;Pontremoli ;3;;;;
-2020-03-21;Lunigiana;Fosdinovo;1;;;;
-2020-03-21;Lunigiana;Mulazzo;1;;;;
-2020-03-21;Lunigiana;Bagnone;1;;;;
-2020-03-21;Piana di Lucca;Lucca;;;;;
-2020-03-21;Piana di Lucca;Capannori;1;;;;
-2020-03-21;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-03-21;Zona Pisana;Pisa;2;;;;
-2020-03-21;Zona Pisana;Ponsacco ;1;;;;
-2020-03-21;Zona Pisana;Cascina;1;;;;
-2020-03-21;Zona Pisana;Peccioli;1;;;;
-2020-03-21;Valdera;Valdera;;;;;
-2020-03-21;Zona Livornese;Livorno;;;;;
-2020-03-21;Val di Cornia;Val di Cornia;;;;;
-2020-03-21;Versilia;Viareggio ;1;;;;
-2020-03-22;Apuane;Massa;2;;;;
-2020-03-22;Apuane;Carrara;1;;;;
-2020-03-22;Apuane;Montignoso;;;;;
-2020-03-22;Lunigiana;Aulla;;;;;
-2020-03-22;Lunigiana;Pontremoli;1;;;;
-2020-03-22;Lunigiana;Mulazzo;1;;;;
-2020-03-22;Lunigiana;Fivizzano;;;;;
-2020-03-22;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-03-22;Lunigiana;Bagnone;;;;;
-2020-03-22;Lunigiana;Licciana Nardi;;;;;
-2020-03-22;Lunigiana;Tresana;1;;;;
-2020-03-22;Piana di Lucca;Lucca;;;;;
-2020-03-22;Piana di Lucca;Capannori;;;;;
-2020-03-22;Piana di Lucca;Altopascio;;;;;
-2020-03-22;Piana di Lucca;Montecarlo;;;;;
-2020-03-22;Piana di Lucca;Porcari;;;;;
-2020-03-22;Valle del Serchio;Castelnuovo Garfagnana;1;;;;
-2020-03-22;Valle del Serchio;Barga;;;;;
-2020-03-22;Valle del Serchio;Minucciano;;;;;
-2020-03-22;Valle del Serchio;Coreglia Antelminelli;;;;;
-2020-03-22;Valle del Serchio;Gallicano;;;;;
-2020-03-22;Valle del Serchio;Castiglione Garfagnana;;;;;
-2020-03-22;Zona Pisana;Pisa;2;;;;
-2020-03-22;Zona Pisana;Cascina;;;;;
-2020-03-22;Zona Pisana;San Giuliano Terme;;;;;
-2020-03-22;Zona Pisana;Vecchiano;;;;;
-2020-03-22;Zona Pisana;Palaia;;;;;
-2020-03-22;Zona Pisana;Ponsacco;;;;;
-2020-03-22;Zona Pisana;Bientina;;;;;
-2020-03-22;Zona Pisana;Pontedera;;;;;
-2020-03-22;Zona Pisana;Pomarance;;;;;
-2020-03-22;Zona Pisana;Volterra;;;;;
-2020-03-22;Zona Pisana;Castelnuovo Val di Cecina;;;;;
-2020-03-22;Zona Livornese;Livorno;1;;;;
-2020-03-22;Zona Livornese;Cecina;;;;;
-2020-03-22;Zona Livornese;Rosignano Marittimo;1;;;;
-2020-03-22;Zona Livornese;Piombino;1;;;;
-2020-03-22;Elba;Rio nell'Elba;;;;;
-2020-03-22;Versilia;Seravezza;1;;;;
-2020-03-22;Versilia;Viareggio;;;;;
-2020-03-22;Versilia;Pietrasanta;;;;;
-2020-03-22;Versilia;Massarosa;;;;;
-2020-03-22;Versilia;Camaiore;;;;;
-2020-03-22;Versilia;Forte dei Marmi;;;;;
-2020-03-23;Apuane;Massa;;;;;
-2020-03-23;Apuane;Carrara;1;;;;
-2020-03-23;Lunigiana;Aulla;;;;;
-2020-03-23;Lunigiana;Filattiera;;;;;
-2020-03-23;Lunigiana;Pontremoli;1;;;;
-2020-03-23;Lunigiana;Mulazzo;;;;;
-2020-03-23;Lunigiana;Fivizzano;2;;;;
-2020-03-23;Lunigiana;Bagnone;1;;;;
-2020-03-23;Piana di Lucca;Lucca;1;;;;
-2020-03-23;Piana di Lucca;Capannori;;;;;
-2020-03-23;Piana di Lucca;Altopascio;;;;;
-2020-03-23;Piana di Lucca;Pescaglia;;;;;
-2020-03-23;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-03-23;Zona Pisana;Pisa;2;;;;
-2020-03-23;Zona Pisana;Cascina;;;;;
-2020-03-23;Zona Pisana;Vecchiano;;;;;
-2020-03-23;Zona Pisana;Ponsacco;;;;;
-2020-03-23;Zona Pisana;Pontedera;;;;;
-2020-03-23;Zona Pisana;Volterra;;;;;
-2020-03-23;Zona Pisana;Terricciola;;;;;
-2020-03-23;Zona Pisana;Buti;;;;;
-2020-03-23;Zona Pisana;Calcinaia;;;;;
-2020-03-23;Zona Pisana;Capannoli;;;;;
-2020-03-23;Zona Pisana;Casciana Terme Lari;1;;;;
-2020-03-23;Zona Pisana;Peccioli;;;;;
-2020-03-23;Zona Pisana;San Giuliano Terme;1;;;;
-2020-03-23;Zona Livornese;Livorno;;;;;
-2020-03-23;Bassa Val di Cecina Val di Cornia;Bibbona;;;;;
-2020-03-23;Bassa Val di Cecina Val di Cornia;Cecina;;;;;
-2020-03-23;Bassa Val di Cecina Val di Cornia;Piombino;;;;;
-2020-03-23;Versilia;Seravezza;;;;;
-2020-03-23;Versilia;Viareggio;;;;;
-2020-03-23;Versilia;Pietrasanta;;;;;
-2020-03-23;Versilia;Camaiore;;;;;
-2020-03-23;Versilia;Forte dei Marmi;;;;;
-2020-03-24;Apuane;Massa;1;;;;
-2020-03-24;Apuane;Carrara;2;;;;
-2020-03-24;Lunigiana;Aulla;;;;;
-2020-03-24;Lunigiana;Filattiera;;;;;
-2020-03-24;Lunigiana;Fivizzano;;;;;
-2020-03-24;Lunigiana;Fosdinovo;;;;;
-2020-03-24;Lunigiana;Licciana Nardi;;;;;
-2020-03-24;Lunigiana;Mulazzo;;;;;
-2020-03-24;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-03-24;Piana di Lucca;Lucca;;;;;
-2020-03-24;Piana di Lucca;Capannori;1;;;;
-2020-03-24;Valle del Serchio;Minucciano;;;;;
-2020-03-24;Valle del Serchio;Piazza al Serchio;;;;;
-2020-03-24;Valle del Serchio;Pieve Fosciana;;;;;
-2020-03-24;Zona Pisana;Pisa;;;;;
-2020-03-24;Zona Pisana;Cascina;1;;;;
-2020-03-24;Zona Pisana;San Giuliano Terme;;;;;
-2020-03-24;Zona Pisana;Bientina;;;;;
-2020-03-24;Zona Pisana;Pontedera;1;;;;
-2020-03-24;Zona Pisana;Santa Maria a Monte;;;;;
-2020-03-24;Zona Livornese;Livorno;1;;;;
-2020-03-24;Zona Livornese;Castagneto Carducci;;;;;
-2020-03-24;Zona Livornese;Cecina;;;;;
-2020-03-24;Zona Livornese;Rosignano;;;;;
-2020-03-24;Versilia;Camaiore;;;;;
-2020-03-24;Versilia;Forte dei Marmi;;;;;
-2020-03-24;Versilia;Massarosa;;;;;
-2020-03-24;Versilia;Pietrasanta;;;;;
-2020-03-24;Versilia;Seravezza;;;;;
-2020-03-25;Apuane;Carrara;;;;;
-2020-03-25;Apuane;Massa;;;;;
-2020-03-25;Apuane;Montignoso;;;;;
-2020-03-25;Lunigiana;Aulla;;;;;
-2020-03-25;Lunigiana;Licciana Nardi;;;;;
-2020-03-25;Lunigiana;Pontremoli;1;;;;
-2020-03-25;Lunigiana;Tresana;;;;;
-2020-03-25;Lunigiana;Fivizzano;1;;;;
-2020-03-25;Piana di Lucca;Altopascio;;;;;
-2020-03-25;Piana di Lucca;Capannori;;;;;
-2020-03-25;Piana di Lucca;Lucca;;;;;
-2020-03-25;Piana di Lucca;Montecarlo;;;;;
-2020-03-25;Piana di Lucca;Villa Basilica;;;;;
-2020-03-25;Valle del Serchio;Borgo a Mozzano;;;;;
-2020-03-25;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-03-25;Valle del Serchio;Piazza al Serchio;;;;;
-2020-03-25;Valle del Serchio;Pieve Fosciana;;;;;
-2020-03-25;Valle del Serchio;San Romano in Garfagnana;;;;;
-2020-03-25;Valle del Serchio;Bagni di Lucca;1;;;;
-2020-03-25;Zona Pisana;Cascina;;;;;
-2020-03-25;Zona Pisana;Pisa;;;;;
-2020-03-25;Zona Pisana;San Giuliano Terme;;;;;
-2020-03-25;Zona Pisana;Vecchiano;;;;;
-2020-03-25;Zona Pisana;Calcinaia;;;;;
-2020-03-25;Zona Pisana;Capannoli;;;;;
-2020-03-25;Zona Pisana;Palaia;;;;;
-2020-03-25;Zona Pisana;Peccioli;;;;;
-2020-03-25;Zona Pisana;Santa Maria a Monte;;;;;
-2020-03-25;Zona Pisana;Volterra;;;;;
-2020-03-25;Zona Livornese;Collesalvetti;;;;;
-2020-03-25;Zona Livornese;Livorno;;;;;
-2020-03-25;Bassa Val di Cecina Val di Cornia;Cecina;;;;;
-2020-03-25;Bassa Val di Cecina Val di Cornia;Riparbella;;;;;
-2020-03-25;Bassa Val di Cecina Val di Cornia;Rosignano;;;;;
-2020-03-25;Versilia;Camaiore;;;;;
-2020-03-25;Versilia;Forte dei Marmi;;;;;
-2020-03-25;Versilia;Massarosa;;;;;
-2020-03-25;Versilia;Pietrasanta;;;;;
-2020-03-25;Versilia;Seravezza;;;;;
-2020-03-25;Versilia;Viareggio;;;;;
-2020-03-26;Apuane;Carrara;1;;;;
-2020-03-26;Apuane;Massa;1;;;;
-2020-03-26;Lunigiana;Aulla;2;;;;
-2020-03-26;Lunigiana;Fivizzano;;;;;
-2020-03-26;Lunigiana;Fosdinovo;;;;;
-2020-03-26;Lunigiana;Licciana Nardi;;;;;
-2020-03-26;Lunigiana;Mulazzo;;;;;
-2020-03-26;Lunigiana;Pontremoli;;;;;
-2020-03-26;Lunigiana;Tresana;;;;;
-2020-03-26;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-03-26;Lunigiana;Zeri;;;;;
-2020-03-26;Piana di Lucca;Altopascio;;;;;
-2020-03-26;Piana di Lucca;Capannori;;;;;
-2020-03-26;Piana di Lucca;Lucca;;;;;
-2020-03-26;Valle del Serchio;Borgo a Mozzano;;;;;
-2020-03-26;Valle del Serchio;Camporgiano;;;;;
-2020-03-26;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-03-26;Valle del Serchio;Coreglia;;;;;
-2020-03-26;Valle del Serchio;Pieve Fosciana;;;;;
-2020-03-26;Valle del Serchio;San Romano in Garfagnana;;;;;
-2020-03-26;Valle del Serchio;Vagli di Sotto;;;;;
-2020-03-26;Valle del Serchio;Villa Collemandina;;;;;
-2020-03-26;Zona Pisana;Calci;;;;;
-2020-03-26;Zona Pisana;Pisa;;;;;
-2020-03-26;Zona Pisana;San Giuliano Terme;;;;;
-2020-03-26;Zona Pisana;Vecchiano;1;;;;
-2020-03-26;Zona Pisana;Capannoli;;;;;
-2020-03-26;Zona Pisana;Casciana Terme Lari;;;;;
-2020-03-26;Zona Pisana;Pomarance;;;;;
-2020-03-26;Zona Pisana;Ponsacco;;;;;
-2020-03-26;Zona Pisana;Pontedera;1;;;;
-2020-03-26;Zona Pisana;Volterra;;;;;
-2020-03-26;Zona Pisana;Vicopisano;1;;;;
-2020-03-26;Zona Livornese;Collesalvetti;;;;;
-2020-03-26;Zona Livornese;Livorno;1;;;;
-2020-03-26;Bassa Val di Cecina Val di Cornia;Cecina;;;;;
-2020-03-26;Bassa Val di Cecina Val di Cornia;Piombino;;;;;
-2020-03-26;Bassa Val di Cecina Val di Cornia;Riparbella;;;;;
-2020-03-26;Bassa Val di Cecina Val di Cornia;Rosignano M;;;;;
-2020-03-26;Versilia;Camaiore;;;;;
-2020-03-26;Versilia;Forte dei Marmi;;;;;
-2020-03-26;Versilia;Massarosa;;;;;
-2020-03-26;Versilia;Pietrasanta;;;;;
-2020-03-26;Versilia;Seravezza;;;;;
-2020-03-26;Versilia;Viareggio;;;;;
-2020-03-27;Apuane;Carrara;;;;;
-2020-03-27;Apuane;Massa;;;;;
-2020-03-27;Lunigiana;Pontremoli;;;;;
-2020-03-27;Lunigiana;Aulla;;;;;
-2020-03-27;Lunigiana;Fivizzano;;;;;
-2020-03-27;Lunigiana;Licciana Nardi;;;;;
-2020-03-27;Lunigiana;Mulazzo;;;;;
-2020-03-27;Lunigiana;Pontremoli;3;;;;
-2020-03-27;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-03-27;Lunigiana;Casola in Lunigiana;;;;;
-2020-03-27;Lunigiana;Bagnone;;;;;
-2020-03-27;Lunigiana;Filattiera;;;;;h
-2020-03-27;Piana di Lucca;Altopascio;;;;;
-2020-03-27;Piana di Lucca;Capannori;;;;;
-2020-03-27;Piana di Lucca;Lucca;;;;;
-2020-03-27;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-03-27;Valle del Serchio;Fabbriche di Vergemoli;1;;;;
-2020-03-27;Valle del Serchio;Molazzana;;;;;
-2020-03-27;Valle del Serchio;Barga;;;;;
-2020-03-27;Zona Pisana;Pisa;1;;;;
-2020-03-27;Zona Pisana;Cascina;;;;;
-2020-03-27;Zona Pisana;Vico Pisano;;;;;
-2020-03-27;Zona Pisana;Vecchiano;1;;;;
-2020-03-27;Alta Val di Cecina Valdera;Peccioli;;;;;
-2020-03-27;Alta Val di Cecina Valdera;Volterra;;;;;
-2020-03-27;Alta Val di Cecina Valdera;Calcinaia;;;;;
-2020-03-27;Alta Val di Cecina Valdera;Pomarance;;;;;
-2020-03-27;Alta Val di Cecina Valdera;Palaia;;;;;
-2020-03-27;Alta Val di Cecina Valdera;Bientina;;;;;
-2020-03-27;Alta Val di Cecina Valdera;S  M. a Monte;;;;;
-2020-03-27;Alta Val di Cecina Valdera;Capannoli;;;;;
-2020-03-27;Zona Livornese;Collesalvetti;;;;;
-2020-03-27;Zona Livornese;Livorno;;;;;
-2020-03-27;Versilia;Camaiore;;;;;
-2020-03-27;Versilia;Massarosa;;;;;
-2020-03-27;Versilia;Pietrasanta;2;;;;
-2020-03-27;Versilia;Seravezza;1;;;;
-2020-03-27;Versilia;Viareggio;3;;;;
-2020-03-27;Versilia;Stazzema;;;;;
-2020-03-28;Apuane;Carrara;;;;;
-2020-03-28;Apuane;Massa;;;;;
-2020-03-28;Apuane;Montignoso;;;;;
-2020-03-28;Lunigiana;Aulla;;;;;
-2020-03-28;Lunigiana;Bagnone;;;;;
-2020-03-28;Lunigiana;Filattiera;;;;;
-2020-03-28;Lunigiana;Fivizzano;;;;;
-2020-03-28;Lunigiana;Fosdinovo;;;;;
-2020-03-28;Lunigiana;Licciana Nardi;;;;;
-2020-03-28;Lunigiana;Pontremoli;1;;;;
-2020-03-28;Lunigiana;Tresana;;;;;
-2020-03-28;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-03-28;Lunigiana;Zeri;;;;;
-2020-03-28;Piana di Lucca;Altopascio;;;;;
-2020-03-28;Piana di Lucca;Capannori;1;;;;
-2020-03-28;Piana di Lucca;Lucca;1;;;;
-2020-03-28;Valle del Serchio;Bagni di Lucca;;;;;
-2020-03-28;Valle del Serchio;Barga;;;;;
-2020-03-28;Valle del Serchio;Borgo a Mozzano;;;;;
-2020-03-28;Valle del Serchio;Coreglia Antelminelli;;;;;
-2020-03-28;Valle del Serchio;Fabbriche di Vergemoli;;;;;
-2020-03-28;Valle del Serchio;Gallicano;;;;;
-2020-03-28;Valle del Serchio;Piazza al Serchio;;;;;
-2020-03-28;Valle del Serchio;Pieve Fosciana;;;;;
-2020-03-28;Valle del Serchio;Vagli di Sotto;;;;;
-2020-03-28;Zona Pisana;Cascina;;;;;
-2020-03-28;Zona Pisana;Pisa;;;;;
-2020-03-28;Zona Pisana;San Giuliano Terme;;;;;
-2020-03-28;Zona Pisana;Vicopisano;;;;;
-2020-03-28;Zona Pisana;Bientina;;;;;
-2020-03-28;Zona Pisana;Capannoli;;;;;
-2020-03-28;Zona Pisana;Casciana Terme Lari;1;;;;
-2020-03-28;Zona Pisana;Peccioli;;;;;
-2020-03-28;Zona Pisana;Pontedera;;;;;
-2020-03-28;Zona Pisana;Santa Maria a Monte;1;;;;
-2020-03-28;Zona Pisana;Terricciola;;;;;
-2020-03-28;Zona Pisana;Volterra;;;;;
-2020-03-28;Zona Livornese;Livorno;1;;;;
-2020-03-28;Bassa Val di Cecina Val di Cornia;Cecina;;;;;
-2020-03-28;Bassa Val di Cecina Val di Cornia;Piombino;;;;;
-2020-03-28;Bassa Val di Cecina Val di Cornia;Rosignano Marittimo;;;;;
-2020-03-28;Bassa Val di Cecina Val di Cornia;San Vincenzo;;;;;
-2020-03-28;Versilia;Camaiore;;;;;
-2020-03-28;Versilia;Massarosa;1;;;;
-2020-03-28;Versilia;Pietrasanta;1;;;;
-2020-03-28;Versilia;Viareggio;;;;;
-2020-03-29;Apuane;Carrara ;;;;;
-2020-03-29;Apuane;Massa;;;;;
-2020-03-29;Lunigiana;Aulla;;;;;
-2020-03-29;Lunigiana;Bagnone ;;;;;
-2020-03-29;Lunigiana;Fivizzano ;1;;;;
-2020-03-29;Lunigiana;Mulazzo;;;;;
-2020-03-29;Lunigiana;Podenzana ;;;;;
-2020-03-29;Lunigiana;Tresana;;;;;
-2020-03-29;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-03-29;Piana di Lucca;Lucca ;1;;;;
-2020-03-29;Piana di Lucca;Capannori;;;;;
-2020-03-29;Piana di Lucca;Altopascip;;;;;
-2020-03-29;Valle del Serchio;Bagni di Lucca;;;;;
-2020-03-29;Zona Pisana;Pisa;1;;;;
-2020-03-29;Zona Pisana;San Giuliano Terme;;;;;
-2020-03-29;Zona Pisana;Vecchiano ;;;;;
-2020-03-29;Zona Pisana;Vicopisano;;;;;
-2020-03-29;Zona Pisana;Calcinaia ;;;;;
-2020-03-29;Zona Pisana;Capannoli;;;;;
-2020-03-29;Zona Pisana;Palaia;;;;;
-2020-03-29;Zona Pisana;Pomarance ;;;;;
-2020-03-29;Zona Pisana;Ponsacco ;;;;;
-2020-03-29;Zona Pisana;Terricciola;;;;;
-2020-03-29;Zona Pisana;Volterra;;;;;
-2020-03-29;Zona Livornese;Livorno;3;;;;
-2020-03-29;Zona Livornese;Campiglia Marittima ;;;;;
-2020-03-29;Zona Livornese;Cecina;;;;;
-2020-03-29;Zona Livornese;Guardistallo;;;;;
-2020-03-29;Zona Livornese;Piombino ;1;;;;
-2020-03-29;Zona Livornese;Rosignano Marittimo;;;;;
-2020-03-29;Elba;Rio Elba;1;;;;
-2020-03-29;Versilia;Camaiore;;;;;
-2020-03-29;Versilia;Forte dei Marmi ;;;;;
-2020-03-29;Versilia;Massarosa;;;;;
-2020-03-29;Versilia;Pietrasanta;;;;;
-2020-03-29;Versilia;Seravezza;;;;;
-2020-03-29;Versilia;Viareggio ;1;;;;
-2020-03-30;Apuane;Carrara;;;;;
-2020-03-30;Apuane;Massa;;;;;
-2020-03-30;Lunigiana;Aulla;;;;;
-2020-03-30;Lunigiana;Bagnone;;;;;
-2020-03-30;Lunigiana;Fivizzano ;;;;;
-2020-03-30;Lunigiana;Licciana Nardi;1;;;;
-2020-03-30;Lunigiana;Mulazzo;;;;;
-2020-03-30;Lunigiana;Pontremoli;;;;;
-2020-03-30;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-03-30;Piana di Lucca;Lucca;;;;;
-2020-03-30;Piana di Lucca;Capannori;;;;;
-2020-03-30;Valle del Serchio;Bagni di Lucca;;;;;
-2020-03-30;Valle del Serchio;Barga;;;;;
-2020-03-30;Valle del Serchio;Camporgiano;;;;;
-2020-03-30;Valle del Serchio;Gallicano;;;;;
-2020-03-30;Valle del Serchio;Minucciano;;;;;
-2020-03-30;Valle del Serchio;Molazzana ;;;;;
-2020-03-30;Zona Pisana;Cascina;;;;;
-2020-03-30;Zona Pisana;Pisa;;;;;
-2020-03-30;Zona Pisana;San Giuliano Terme ;;;;;
-2020-03-30;Zona Pisana;Vecchiano ;;;;;
-2020-03-30;Zona Pisana;Vicopisano;;;;;
-2020-03-30;Zona Pisana;Bientina;;;;;
-2020-03-30;Zona Pisana;Calcinaia ;;;;;
-2020-03-30;Zona Pisana;Casciana Terme Lari;;;;;
-2020-03-30;Zona Pisana;Ponsacco ;;;;;
-2020-03-30;Zona Pisana;Santa Maria a Monte;;;;;
-2020-03-30;Zona Livornese;Collesalvetti ;;;;;
-2020-03-30;Zona Livornese;Livorno;;;;;
-2020-03-30;Zona Livornese;Cecina;1;;;;
-2020-03-30;Zona Livornese;Piombino ;;;;;
-2020-03-30;Zona Livornese;Rosignano Marittimo;;;;;
-2020-03-30;Elba;Rio Elba;;;;;
-2020-03-30;Versilia;Camaiore ;;;;;
-2020-03-30;Versilia;Forte dei Marmi ;;;;;
-2020-03-30;Versilia;Massarosa ;1;;;;
-2020-03-30;Versilia;Seravezza;;;;;
-2020-03-30;Versilia;Stazzema ;;;;;
-2020-03-30;Versilia;Viareggio ;;;;;
-2020-04-01;Apuane;Carrara;;;;;
-2020-04-01;Apuane;Massa;;;;;
-2020-04-01;Apuane;Montignoso ;;;;;
-2020-04-01;Lunigiana;Aulla ;;;;;
-2020-04-01;Lunigiana;Bagnone;1;;;;
-2020-04-01;Lunigiana;Filattiera;;;;;
-2020-04-01;Lunigiana;Fivizzano;;;;;
-2020-04-01;Lunigiana;Licciana Nardi;;;;;
-2020-04-01;Lunigiana;Pontremoli ;;;;;
-2020-04-01;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-04-01;Piana di Lucca;Lucca;1;;;;
-2020-04-01;Valle del Serchio;Bagni di Lucca;;;;;
-2020-04-01;Valle del Serchio;Barga;1;;;;
-2020-04-01;Valle del Serchio;Borgo a Mozzano;;;;;
-2020-04-01;Valle del Serchio;Gallicano ;;;;;
-2020-04-01;Valle del Serchio;Molazzana ;;;;;
-2020-04-01;Zona Pisana;Cascina;;;;;
-2020-04-01;Zona Pisana;Pisa;;;;;
-2020-04-01;Zona Pisana;San Giuliano Terme;;;;;
-2020-04-01;Zona Pisana;Vicopisano;;;;;
-2020-04-01;Zona Pisana;Riparbella;1;;;;
-2020-04-01;Zona Pisana;Peccioli;1;;;;
-2020-04-01;Zona Livornese;Collesalvetti ;;;;;
-2020-04-01;Zona Livornese;Livorno ;;;;;
-2020-04-01;Bassa Val di Cecina Val di Cornia;Campiglia Marittima ;;;;;
-2020-04-01;Bassa Val di Cecina Val di Cornia;Cecina;;;;;
-2020-04-01;Bassa Val di Cecina Val di Cornia;Piombino;;;;;
-2020-04-01;Bassa Val di Cecina Val di Cornia;Rosignano;1;;;;
-2020-04-01;Versilia;Camaiore;1;;;;
-2020-04-01;Versilia;Forte dei Marmi ;;;;;
-2020-04-01;Versilia;Massarosa;;;;;
-2020-04-01;Versilia;Pietrasanta;1;;;;
-2020-04-01;Versilia;Seravezza ;;;;;
-2020-04-01;Versilia;Viareggio ;;;;;
-2020-04-01;Toscana;Toscana;;19;22;;
-2020-04-02;Apuane;Carrara;;;;;
-2020-04-02;Apuane;Massa;;;;;
-2020-04-02;Apuane;Montignoso;;;;;
-2020-04-02;Lunigiana;Filattiera;;;;;
-2020-04-02;Lunigiana;Fivizzano ;;;;;
-2020-04-02;Lunigiana;Pontremoli ;;;;;
-2020-04-02;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-04-02;Lunigiana;Zeri ;;;;;
-2020-04-02;Piana di Lucca;Altopascio;;;;;
-2020-04-02;Piana di Lucca;Capannori;1;;;;
-2020-04-02;Piana di Lucca;Lucca;;;;;
-2020-04-02;Piana di Lucca;Montecarlo ;;;;;
-2020-04-02;Piana di Lucca;Porcari;;;;;
-2020-04-02;Valle del Serchio;Bagni di Lucca;;;;;
-2020-04-02;Valle del Serchio;Barga;;;;;
-2020-04-02;Zona Pisana;Cascina ;;;;;
-2020-04-02;Zona Pisana;Crespina Lorenzana;;;;;
-2020-04-02;Zona Pisana;Pisa;2;;;;
-2020-04-02;Zona Pisana;San Giuliano Terme;;;;;
-2020-04-02;Zona Pisana;Vecchiano ;;;;;
-2020-04-02;Alta  Val di Cecina Val d'Era;Capannoli;;;;;
-2020-04-02;Alta  Val di Cecina Val d'Era;Palaia;;;;;
-2020-04-02;Alta  Val di Cecina Val d'Era;Peccioli;;;;;
-2020-04-02;Alta  Val di Cecina Val d'Era;Pontedera;;;;;
-2020-04-02;Alta  Val di Cecina Val d'Era;Santa Maria a Monte;;;;;
-2020-04-02;Zona Livornese;Collesalvetti ;;;;;
-2020-04-02;Zona Livornese;Livorno;;;;;
-2020-04-02;Bassa Val di Cecina Val di Cornia;Guardistallo;;;;;
-2020-04-02;Bassa Val di Cecina Val di Cornia;Rosignano;;;;;
-2020-04-02;Versilia;Camaiore;;;;;
-2020-04-02;Versilia;Pietrasanta;;;;;
-2020-04-02;Versilia;Stazzema ;;;;;
-2020-04-02;Versilia;Viareggio;1;;;;
-2020-04-02;Toscana;Toscana;;6;5;;
-2020-04-03;Apuane;Carrara;1;;;;
-2020-04-03;Apuane;Massa;1;;;;
-2020-04-03;Piana di Lucca;Altopascio;;;;;
-2020-04-03;Piana di Lucca;Capannori ;;;;;
-2020-04-03;Piana di Lucca;Lucca;;;;;
-2020-04-03;Piana di Lucca;Montecarlo ;;;;;
-2020-04-03;Piana di Lucca;Porcari;1;;;;
-2020-04-03;Piana di Lucca;Villa Basilica;;;;;
-2020-04-03;Valle del Serchio;Bagni di Lucca;;;;;
-2020-04-03;Zona Pisana;San Giuliano Terme;;;;;
-2020-04-03;Zona Pisana;Cascina;1;;;;
-2020-04-03;Alta  Val di Cecina Val d'Era;Volterra;;;;;
-2020-04-03;Zona Livornese;Livorno;;;;;
-2020-04-03;Versilia;Camaiore;;;;;
-2020-04-03;Versilia;Forte dei Marmi ;;;;;
-2020-04-03;Versilia;Massarosa;1;;;;
-2020-04-03;Versilia;Pietrasanta;;;;;
-2020-04-03;Versilia;Seravezza;1;;;;
-2020-04-03;Versilia;Viareggio;;;;;
-2020-04-03;Toscana;Toscana;;15;50;;
-2020-04-04;Apuane;Carrara;1;;;;
-2020-04-04;Apuane;Massa;;;;;
-2020-04-04;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-04-04;Lunigiana;Filattiera;1;;;;
-2020-04-04;Lunigiana;Mulazzo;1;;;;
-2020-04-04;Piana di Lucca;Capannori;1;;;;
-2020-04-04;Piana di Lucca;Lucca;;;;;
-2020-04-04;Valle del Serchio;Barga;;;;;
-2020-04-04;Valle del Serchio;Coreglia Antelminelli;;;;;
-2020-04-04;Valle del Serchio;Gallicano;;;;;
-2020-04-04;Valle del Serchio;Minucciano;;;;;
-2020-04-04;Valle del Serchio;Borgo a Mozzano;1;;;;
-2020-04-04;Zona Pisana;Cascina;;;;;
-2020-04-04;Zona Pisana;Pisa;;;;;
-2020-04-04;Zona Pisana;San Giuliano Terme;;;;;
-2020-04-04;Zona Livornese;Livorno;3;;;;
-2020-04-04;Bassa Val di Cecina Val di Cornia;Piombino ;;;;;
-2020-04-04;Versilia;Camaiore;;;;;
-2020-04-04;Versilia;Pietrasanta ;1;;;;
-2020-04-04;Versilia;Seravezza;;;;;
-2020-04-04;Versilia;Viareggio ;;;;;
-2020-04-04;Toscana;Toscana;;0;6;;
-2020-04-05;Apuane;Massa;1;;;;
-2020-04-05;Lunigiana;Aulla;;;;;
-2020-04-05;Lunigiana;Fivizzano ;;;;;
-2020-04-05;Lunigiana;Fosdinovo;;;;;
-2020-04-05;Lunigiana;Pontremoli;;;;;
-2020-04-05;Lunigiana;Licciana Nardi;1;;;;
-2020-04-05;Piana di Lucca;Capannori;1;;;;
-2020-04-05;Valle del Serchio;Barga;;;;;
-2020-04-05;Valle del Serchio;Gallicano;1;;;;
-2020-04-05;Zona Pisana;Cascina ;;;;;
-2020-04-05;Zona Pisana;Fauglia ;;;;;
-2020-04-05;Zona Pisana;Pisa ;1;;;;
-2020-04-05;Zona Pisana;San Giuliano ;;;;;
-2020-04-05;Zona Pisana;Vecchiano ;;;;;
-2020-04-05;Alta  Val di Cecina Val d'Era;Capannoli;;;;;
-2020-04-05;Alta  Val di Cecina Val d'Era;Terricciola;;;;;
-2020-04-05;Alta  Val di Cecina Val d'Era;Volterra;;;;;
-2020-04-05;Alta  Val di Cecina Val d'Era;Pontedera;2;;;;
-2020-04-05;Zona Livornese;Livorno;1;;;;
-2020-04-05;Versilia;Camaiore;;;;;
-2020-04-05;Versilia;Forte dei Marmi ;;;;;
-2020-04-05;Versilia;Pietrasanta;1;;;;
-2020-04-05;Versilia;Viareggio ;1;;;;
-2020-04-05;Versilia;Seravezza ;1;;;;
-2020-04-05;Toscana;Toscana;;6;9;;
-2020-04-06;Apuane;Carrara;2;;;;
-2020-04-06;Apuane;Massa;1;;;;
-2020-04-06;Apuane;Montignoso;1;;;;
-2020-04-06;Lunigiana;Aulla ;;;;;
-2020-04-06;Lunigiana;Filattiera;;;;;
-2020-04-06;Lunigiana;Fivizzano;;;;;
-2020-04-06;Lunigiana;Pontremoli ;;;;;
-2020-04-06;Lunigiana;Villafranca in Lunigiana;;;;;
-2020-04-06;Piana di Lucca;Capannori;1;;;;
-2020-04-06;Piana di Lucca;Lucca;1;;;;
-2020-04-06;Piana di Lucca;Porcari;;;;;
-2020-04-06;Valle del Serchio;Barga ;;;;;
-2020-04-06;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-04-06;Zona Pisana;Pisa;;;;;
-2020-04-06;Zona Pisana;Vecchiano ;;;;;
-2020-04-06;Alta  Val di Cecina Val d'Era;Casciana Terme Lari;;;;;
-2020-04-06;Alta  Val di Cecina Val d'Era;Palaia;;;;;
-2020-04-06;Alta  Val di Cecina Val d'Era;Santa Maria a Monte;;;;;
-2020-04-06;Alta  Val di Cecina Val d'Era;Terricciola;;;;;
-2020-04-06;Alta  Val di Cecina Val d'Era;Volterra;;;;;
-2020-04-06;Zona Livornese;Livorno;;;;;
-2020-04-06;Versilia;Camaiore ;1;;;;
-2020-04-06;Versilia;Pietrasanta;;;;;
-2020-04-06;Versilia;Viareggio;1;;;;
-2020-04-06;Versilia;Forte dei Marmi ;1;;;;
-2020-04-06;Toscana;Toscana;;2;8;;
-2020-04-07;Apuane;Carrara;;;;;
-2020-04-07;Apuane;Massa;1;;;;
-2020-04-07;Lunigiana;Aulla ;;;;;
-2020-04-07;Lunigiana;Filattiera;;;;;
-2020-04-07;Lunigiana;Fivizzano;;;;;
-2020-04-07;Lunigiana;Fosdinovo;;;;;
-2020-04-07;Lunigiana;Licciana Nardi;;;;;
-2020-04-07;Lunigiana;Mulazzo;;;;;
-2020-04-07;Lunigiana;Podenzana ;;;;;
-2020-04-07;Lunigiana;Pontremoli ;;;;;
-2020-04-07;Lunigiana;Tresana;;;;;
-2020-04-07;Lunigiana;Villafranca;;;;;
-2020-04-07;Piana di Lucca;Altopascio ;;;;;
-2020-04-07;Piana di Lucca;Capannori;1;;;;
-2020-04-07;Piana di Lucca;Lucca;1;;;;
-2020-04-07;Piana di Lucca;Montecarlo ;1;;;;
-2020-04-07;Valle del Serchio;Bagni di Lucca;;;;;
-2020-04-07;Valle del Serchio;Barga;;;;;
-2020-04-07;Valle del Serchio;Camporgiano;;;;;
-2020-04-07;Valle del Serchio;Coreglia Antelminelli;;;;;
-2020-04-07;Valle del Serchio;Gallicano;;;;;
-2020-04-07;Zona Pisana;Cascina;;;;;
-2020-04-07;Zona Pisana;Pisa;;;;;
-2020-04-07;Zona Pisana;Vicopisano;;;;;
-2020-04-07;Alta  Val di Cecina Val d'Era;Capannoli;;;;;
-2020-04-07;Alta  Val di Cecina Val d'Era;Lajatico ;;;;;
-2020-04-07;Alta  Val di Cecina Val d'Era;Palaia;;;;;
-2020-04-07;Alta  Val di Cecina Val d'Era;Peccioli;;;;;
-2020-04-07;Alta  Val di Cecina Val d'Era;Pontedera;;;;;
-2020-04-07;Alta  Val di Cecina Val d'Era;Volterra;;;;;
-2020-04-07;Zona Livornese;Livorno;;;;;
-2020-04-07;Versilia;Pietrasanta;1;;;;
-2020-04-07;Versilia;Seravezza;;;;;
-2020-04-07;Versilia;Viareggio;;;;;
-2020-04-07;Versilia;Forte dei Marmi ;1;;;;
-2020-04-07;Versilia;Camaiore;1;;;;
-2020-04-07;Toscana;Toscana;;5;0;;
-2020-04-08;Apuane;Carrara;;;;;
-2020-04-08;Apuane;Massa;;;;;
-2020-04-08;Apuane;Montignoso;;;;;
-2020-04-08;Lunigiana;Aulla;;;;;
-2020-04-08;Lunigiana;Casola in Lunigiana ;;;;;
-2020-04-08;Lunigiana;Pontremoli;;;;;
-2020-04-08;Lunigiana;Villafranca ;;;;;
-2020-04-08;Lunigiana;Zeri;1;;;;
-2020-04-08;Piana di Lucca;Altopascio ;;;;;
-2020-04-08;Piana di Lucca;Lucca;;;;;
-2020-04-08;Valle del Serchio;Barga ;;;;;
-2020-04-08;Valle del Serchio;Piazza al Serchio;;;;;
-2020-04-08;Valle del Serchio;Pieve Fosciana;;;;;
-2020-04-08;Zona Pisana;Pisa;;;;;
-2020-04-08;Zona Pisana;Vicopisano;;;;;
-2020-04-08;Zona Pisana;San Giuliano Terme;;;;;
-2020-04-08;Alta  Val di Cecina Val d'Era;Bientina;;;;;
-2020-04-08;Alta  Val di Cecina Val d'Era;Casciana Terme Lari;;;;;
-2020-04-08;Alta  Val di Cecina Val d'Era;Palaia;;;;;
-2020-04-08;Alta  Val di Cecina Val d'Era;Peccioli;1;;;;
-2020-04-08;Alta  Val di Cecina Val d'Era;Ponsacco ;;;;;
-2020-04-08;Alta  Val di Cecina Val d'Era;Pontedera;;;;;
-2020-04-08;Alta  Val di Cecina Val d'Era;Santa Maria a Monte;;;;;
-2020-04-08;Alta  Val di Cecina Val d'Era;Terricciola;;;;;
-2020-04-08;Zona Livornese;Collesalvetti ;;;;;
-2020-04-08;Zona Livornese;Livorno;;;;;
-2020-04-08;Bassa Val di Cecina Val di Cornia;Guardistallo;;;;;
-2020-04-08;Bassa Val di Cecina Val di Cornia;Piombino;;;;;
-2020-04-08;Bassa Val di Cecina Val di Cornia;Rosignano;;;;;
-2020-04-08;Bassa Val di Cecina Val di Cornia;San Vincenzo;;;;;
-2020-04-08;Versilia;Massarosa;;;;;
-2020-04-08;Versilia;Pietrasanta;;;;;
-2020-04-08;Versilia;Seravezza ;;;;;
-2020-04-08;Versilia;Stazzema ;;;;;
-2020-04-08;Versilia;Viareggio ;;;;;
-2020-04-08;Toscana;Toscana;;0;2;;
-2020-04-09;Apuane;Carrara ;;;;;
-2020-04-09;Apuane;Massa;1;;;;
-2020-04-09;Apuane;Montignoso;;;;;
-2020-04-09;Lunigiana;Bagnone;;;;;
-2020-04-09;Lunigiana;Pontremoli ;;;;;
-2020-04-09;Lunigiana;Mulazzo;1;;;;
-2020-04-09;Piana di Lucca;Capannori;;;;;
-2020-04-09;Piana di Lucca;Lucca;;;;;
-2020-04-09;Valle del Serchio;Bagni di Lucca;;;;;
-2020-04-09;Valle del Serchio;Barga;;;;;
-2020-04-09;Valle del Serchio;Fabbriche di Vergemoli;;;;;
-2020-04-09;Zona Pisana;Cascina;1;;;;
-2020-04-09;Zona Pisana;Pisa;1;;;;
-2020-04-09;Alta  Val di Cecina Val d'Era;Volterra;;;;;
-2020-04-09;Zona Livornese;Livorno ;;;;;
-2020-04-09;Versilia;Massarosa;;;;;
-2020-04-09;Versilia;Pietrasanta;;;;;
-2020-04-09;Versilia;Viareggio ;;;;;
-2020-04-09;Versilia;Seravezza;1;;;;
-2020-04-09;Toscana;Toscana;;0;0;;
-2020-04-10;Apuane;Carrara;;;;;
-2020-04-10;Apuane;Massa 3;;;;;
-2020-04-10;Lunigiana;Aulla;;;;;
-2020-04-10;Lunigiana;Licciana Nardi;1;;;;
-2020-04-10;Piana di Lucca;Capannori;;;;;
-2020-04-10;Piana di Lucca;Lucca;;;;;
-2020-04-10;Valle del Serchio;Barga;;;;;
-2020-04-10;Zona Pisana;Cascina ;;;;;
-2020-04-10;Zona Pisana;Pisa ;1;;;;
-2020-04-10;Zona Livornese;Livorno ;2;;;;
-2020-04-10;Versilia;Pietrasanta;;;;;
-2020-04-10;Versilia;Stazzema ;;;;;
-2020-04-10;Versilia;Viareggio ;2;;;;
-2020-04-10;Versilia;Massarosa ;1;;;;
-2020-04-10;Versilia;Seravezza;1;;;;
-2020-04-10;Toscana;Toscana;;7;0;;
-2020-04-11;Apuane;Carrara;;;;;
-2020-04-11;Apuane;Massa;1;;;;
-2020-04-11;Apuane;Montignoso ;;;;;
-2020-04-11;Lunigiana;Bagnone;;;;;
-2020-04-11;Lunigiana;Licciana Nardi;;;;;
-2020-04-11;Lunigiana;Pontremoli;;;;;
-2020-04-11;Lunigiana;Fivizzano;2;;;;
-2020-04-11;Lunigiana;Aulla;1;;;;
-2020-04-11;Piana di Lucca;Altopascio;;;;;
-2020-04-11;Piana di Lucca;Lucca;;;;;
-2020-04-11;Valle del Serchio;Bagni di Lucca;;;;;
-2020-04-11;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-04-11;Valle del Serchio;Gallicano;;;;;
-2020-04-11;Zona Pisana;Cascina;;;;;
-2020-04-11;Zona Pisana;Pisa;1;;;;
-2020-04-11;Zona Pisana;San Giuliano Terme;;;;;
-2020-04-11;Alta  Val di Cecina Val d'Era;Calcinaia ;;;;;
-2020-04-11;Alta  Val di Cecina Val d'Era;Casciana Terme Lari;;;;;
-2020-04-11;Alta  Val di Cecina Val d'Era;Palaia;;;;;
-2020-04-11;Alta  Val di Cecina Val d'Era;Peccioli ;;;;;
-2020-04-11;Alta  Val di Cecina Val d'Era;Ponsacco ;;;;;
-2020-04-11;Alta  Val di Cecina Val d'Era;Pontedera;;;;;
-2020-04-11;Alta  Val di Cecina Val d'Era;Volterra;;;;;
-2020-04-11;Zona Livornese;Livorno;;;;;
-2020-04-11;Elba;Portoferraio;;;;;
-2020-04-11;Bassa Val di Cecina Val di Cornia;Bibbona;;;;;
-2020-04-11;Bassa Val di Cecina Val di Cornia;Castagneto Carducci;;;;;
-2020-04-11;Bassa Val di Cecina Val di Cornia;Castellina Marittima;;;;;
-2020-04-11;Bassa Val di Cecina Val di Cornia;Cecina;;;;;
-2020-04-11;Versilia;Camaiore;;;;;
-2020-04-11;Versilia;Forte dei Marmi ;;;;;
-2020-04-11;Versilia;Massarosa;;;;;
-2020-04-11;Versilia;Pietrasanta;;;;;
-2020-04-11;Versilia;Seravezza;;;;;
-2020-04-11;Versilia;Stazzema ;;;;;
-2020-04-11;Versilia;Viareggio ;;;;;
-2020-04-11;Toscana;Toscana;;34;0;;
-2020-04-12;Apuane;Carrara;;;;;
-2020-04-12;Apuane;Massa;3;;;;
-2020-04-12;Lunigiana;Mulazzo;;;;;
-2020-04-12;Lunigiana;Tresana;;;;;
-2020-04-12;Lunigiana;Fivizzano;;;;;
-2020-04-12;Piana di Lucca;Capannori;;;;;
-2020-04-12;Piana di Lucca;Lucca;;;;;
-2020-04-12;Valle del Serchio;Barga ;;;;;
-2020-04-12;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-04-12;Zona Pisana;Cascina ;;;;;
-2020-04-12;Zona Pisana;Pisa;1;;;;
-2020-04-12;Zona Pisana;San Giuliano ;;;;;
-2020-04-12;Zona Pisana;Vecchiano ;;;;;
-2020-04-12;Alta  Val di Cecina Val d'Era;Bientina;;;;;
-2020-04-12;Alta  Val di Cecina Val d'Era;Capannoli;;;;;
-2020-04-12;Alta  Val di Cecina Val d'Era;Peccioli;;;;;
-2020-04-12;Alta  Val di Cecina Val d'Era;Pomarance ;;;;;
-2020-04-12;Alta  Val di Cecina Val d'Era;Ponsacco ;;;;;
-2020-04-12;Alta  Val di Cecina Val d'Era;Pontedera;;;;;
-2020-04-12;Alta  Val di Cecina Val d'Era;Palaia;2;;;;
-2020-04-12;Zona Livornese;Collesalvetti ;;;;;
-2020-04-12;Zona Livornese;Livorno ;;;;;
-2020-04-12;Elba;Rio Elba;;;;;
-2020-04-12;Bassa Val di Cecina Val di Cornia;Cecina ;;;;;
-2020-04-12;Bassa Val di Cecina Val di Cornia;Piombino;;;;;
-2020-04-12;Bassa Val di Cecina Val di Cornia;Rosignano;1;;;;
-2020-04-12;Versilia;Camaiore;;;;;
-2020-04-12;Versilia;Pietrasanta;;;;;
-2020-04-12;Versilia;Stazzema ;;;;;
-2020-04-12;Versilia;Seravezza;;;;;
-2020-04-12;Versilia;Viareggio ;1;;;;
-2020-04-12;Toscana;Toscana;;9;20;;
-2020-04-13;Apuane;Carrara;;;;;
-2020-04-13;Apuane;Massa;1;;;;
-2020-04-13;Lunigiana;Fivizzano;1;;;;
-2020-04-13;Lunigiana;Pontremoli;2;;;;
-2020-04-13;Lunigiana;Aulla;1;;;;
-2020-04-13;Lunigiana;Licciana Nardi;1;;;;
-2020-04-13;Piana di Lucca;Capannori;1;;;;
-2020-04-13;Piana di Lucca;Lucca;;;;;
-2020-04-13;Piana di Lucca;Porcari;;;;;
-2020-04-13;Piana di Lucca;Villa Basilica;1;;;;
-2020-04-13;Valle del Serchio;Barga;;;;;
-2020-04-13;Valle del Serchio;Pescaglia;;;;;
-2020-04-13;Valle del Serchio;Castelnuovo Garfagnana;;;;;
-2020-04-13;Valle del Serchio;Molazzana ;1;;;;
-2020-04-13;Zona Pisana;Calci ;;;;;
-2020-04-13;Zona Pisana;Cascina;;;;;
-2020-04-13;Zona Pisana;Crespina Lorenzana;;;;;
-2020-04-13;Zona Pisana;Pisa;1;;;;
-2020-04-13;Zona Pisana;San Giuliano ;;;;;
-2020-04-13;Zona Pisana;Vecchiano ;;;;;
-2020-04-13;Alta  Val di Cecina Val d'Era;Bientina;;;;;
-2020-04-13;Alta  Val di Cecina Val d'Era;Palaia;;;;;
-2020-04-13;Alta  Val di Cecina Val d'Era;Pomarance ;;;;;
-2020-04-13;Alta  Val di Cecina Val d'Era;Volterra;;;;;
-2020-04-13;Alta  Val di Cecina Val d'Era;Ponsacco ;1;;;;
-2020-04-13;Zona Livornese;Livorno ;;;;;
-2020-04-13;Bassa Val di Cecina Val di Cornia;Campiglia Marittima ;;;;;
-2020-04-13;Bassa Val di Cecina Val di Cornia;Piombino;1;;;;
-2020-04-13;Bassa Val di Cecina Val di Cornia;Rosignano Marittimo;;;;;
-2020-04-13;Versilia;Camaiore;;;;;
-2020-04-13;Versilia;Forte dei Marmi ;;;;;
-2020-04-13;Versilia;Massarosa;;;;;
-2020-04-13;Versilia;Pietrasanta;;;;;
-2020-04-13;Versilia;Seravezza;;;;;
-2020-04-13;Versilia;Viareggio ;;;;;
-2020-04-13;Toscana;Toscana;;0;0;;
-2020-04-14;Apuane;Carrara;;;;;
-2020-04-14;Apuane;Massa;;;;;
-2020-04-14;Apuane;Montignoso;;;;;
-2020-04-14;Lunigiana;Fosdinovo;1;;;;
-2020-04-14;Lunigiana;Fivizzano;1;;;;
-2020-04-14;Piana di Lucca;Lucca;1;;;;
-2020-04-14;Valle del Serchio;Pescaglia;;;;;
-2020-04-14;Zona Pisana;Cascina ;;;;;
-2020-04-14;Zona Pisana;Pisa;;;;;
-2020-04-14;Zona Pisana;San Giuliano ;;;;;
-2020-04-14;Zona Pisana;Vecchiano ;;;;;
-2020-04-14;Zona Livornese;Livorno ;;;;;
-2020-04-14;Zona Livornese;Collesalvetti ;;;;;
-2020-04-14;Elba;Capoliveri;;;;;
-2020-04-14;Versilia;Camaiore;;;;;
-2020-04-14;Versilia;Massarosa;;;;;
-2020-04-14;Versilia;Stazzema ;;;;;
-2020-04-14;Versilia;Viareggio ;;;;;
-2020-04-14;Versilia;Pietrasanta;2;;;;
-2020-04-14;Toscana;Toscana;;8;3;;
+﻿2020-02-29,Apuane,Carrara,,,,,
+2020-02-29,Lunigiana,Aulla,,,,,
+2020-03-01,Apuane,Carrara,,,,,
+2020-03-03,Piana di Lucca,Capannori,,,,,
+2020-03-03,Versilia,Viareggio ,,,,,
+2020-03-04,Lunigiana,Pontremoli ,,,,,
+2020-03-04,Zona Pisana,Pisa2,,,,,
+2020-03-04,Zona Livornese,Livorno ,,,,,
+2020-03-04,Zona Livornese,Livorno2,,,,,
+2020-03-05,Lunigiana,Licciana Nardi ,,,,,
+2020-03-05,Piana di Lucca,Capannori ,,,,,
+2020-03-05,Zona Pisana,San Giuliano Terme ,,,,,
+2020-03-05,Versilia,Viareggio ,,,,,
+2020-03-06,Lunigiana,Mulazzo,,,,,
+2020-03-06,Lunigiana,Fivizzano ,,,,,
+2020-03-06,Piana di Lucca,Lucca ,,,,,
+2020-03-06,Zona Pisana,Pisa ,,,,,
+2020-03-06,Zona Pisana,Cascina ,,,,,
+2020-03-06,Zona Livornese,Livorno ,,,,,
+2020-03-07,Apuane,Massa ,,,,,
+2020-03-07,Lunigiana,Pontremoli ,,,,,
+2020-03-07,Lunigiana,Filattiera ,,,,,
+2020-03-07,Piana di Lucca,Capannori ,,,,,
+2020-03-07,Piana di Lucca,Porcari ,,,,,
+2020-03-07,Zona Pisana,Pisa ,,,,,
+2020-03-07,Zona Pisana,Volterra ,,,,,
+2020-03-07,Versilia,Seravezza,,,,,
+2020-03-08,Apuane,Massa ,,,,,
+2020-03-08,Lunigiana,Mulazzo ,,,,,
+2020-03-08,Lunigiana,Licciana Nardi ,,,,,
+2020-03-08,Lunigiana,Villafranca in Lunigiana ,,,,,
+2020-03-08,Lunigiana,Zeri ,,,,,
+2020-03-08,Piana di Lucca,Lucca,,,,,
+2020-03-08,Piana di Lucca,Capannori ,,,,,
+2020-03-08,Piana di Lucca,Porcari ,,,,,
+2020-03-08,Zona Pisana,Pisa ,1,,,,
+2020-03-08,Zona Pisana,Calcinaia ,,,,,
+2020-03-08,Zona Pisana,Santa Maria a Monte ,,,,,
+2020-03-08,Zona Livornese,Livorno ,,,,,
+2020-03-08,Zona Livornese,Piombino ,,,,,
+2020-03-08,Versilia,Seravezza ,,,,,
+2020-03-08,Versilia,Viareggio ,,,,,
+2020-03-08,Versilia,Massarosa ,,,,,
+2020-03-08,Versilia,Camaiore ,,,,,
+2020-03-08,Versilia,Forte dei Marmi ,,,,,
+2020-03-10,Apuane,Massa,,,,,
+2020-03-10,Apuane,Sarzana,,,,,
+2020-03-10,Lunigiana,Aulla ,,,,,
+2020-03-10,Lunigiana,Pontremoli ,,,,,
+2020-03-10,Lunigiana,Mulazzo ,,,,,
+2020-03-10,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-03-10,Lunigiana,Bagnone ,,,,,
+2020-03-10,Piana di Lucca,Lucca,,,,,
+2020-03-10,Piana di Lucca,Capannori,,,,,
+2020-03-10,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-03-10,Zona Pisana,Pisa ,,,,,
+2020-03-10,Zona Pisana,Pomarance ,,,,,
+2020-03-10,Zona Pisana,Pontedera ,,,,,
+2020-03-10,Zona Livornese,Livorno ,,,,,
+2020-03-10,Versilia,Viareggio ,,,,,
+2020-03-11,Apuane,Massa,,,,,
+2020-03-11,Lunigiana,Pontremoli ,,,,,
+2020-03-11,Lunigiana,Mulazzo,1,,,,
+2020-03-11,Lunigiana,Villafranca in Lunigiana,1,,,,
+2020-03-11,Piana di Lucca,Lucca,1,,,,
+2020-03-11,Piana di Lucca,Capannori,,,,,
+2020-03-11,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-03-11,Zona Pisana,Cascina ,,,,,
+2020-03-11,Zona Pisana,San Giuliano Terme ,,,,,
+2020-03-11,Zona Pisana,Calci ,,,,,
+2020-03-11,Zona Pisana,Peccioli ,,,,,
+2020-03-11,Versilia,Viareggio ,,,,,
+2020-03-11,Versilia,Massarosa ,,,,,
+2020-03-11,Versilia,Stazzema ,,,,,
+2020-03-12,Apuane,Massa,,,,,
+2020-03-12,Apuane,Montignoso ,,,,,
+2020-03-12,Lunigiana,Aulla,,,,,
+2020-03-12,Lunigiana,Mulazzo ,,,,,
+2020-03-12,Lunigiana,Fosdinovo,,,,,
+2020-03-12,Piana di Lucca,Lucca,,,,,
+2020-03-12,Zona Pisana,Pisa,,,,,
+2020-03-12,Zona Livornese,Livorno ,,,,,
+2020-03-12,Versilia,Seravezza ,,,,,
+2020-03-12,Versilia,Viareggio ,,,,,
+2020-03-12,Versilia,Pietrasanta ,,,,,
+2020-03-13,Apuane,Massa,,,,,
+2020-03-13,Apuane,Carrara,,,,,
+2020-03-13,Lunigiana,Aulla,,,,,
+2020-03-13,Lunigiana,Pontremoli ,,,,,
+2020-03-13,Lunigiana,Mulazzo ,,,,,
+2020-03-13,Piana di Lucca,Lucca,,,,,
+2020-03-13,Piana di Lucca,Capannori,,,,,
+2020-03-13,Zona Pisana,Pisa ,,,,,
+2020-03-13,Zona Pisana,Cascina ,,,,,
+2020-03-13,Zona Pisana,Santa Maria a Monte ,,,,,
+2020-03-13,Zona Livornese,Livorno ,,,,,
+2020-03-13,Zona Livornese,Piombino ,,,,,
+2020-03-13,Versilia,Viareggio ,,,,,
+2020-03-13,Versilia,Camaiore ,,,,,
+2020-03-14,Apuane,Massa ,,,,,
+2020-03-14,Apuane,Carrara ,,,,,
+2020-03-14,Apuane,Montignoso ,,,,,
+2020-03-14,Lunigiana,Pontremoli ,,,,,
+2020-03-14,Lunigiana,Mulazzo ,,,,,
+2020-03-14,Lunigiana,Fivizzano ,,,,,
+2020-03-14,Lunigiana,Villafranca in Lunigiana ,,,,,
+2020-03-14,Lunigiana,Zeri ,,,,,
+2020-03-14,Lunigiana,Casola in Lunigiana ,,,,,
+2020-03-14,Piana di Lucca,Lucca,1,,,,
+2020-03-14,Zona Pisana,Pisa ,,,,,
+2020-03-14,Zona Pisana,Vecchiano ,,,,,
+2020-03-14,Zona Pisana,Pontedera ,,,,,
+2020-03-14,Zona Pisana,Pomarance ,,,,,
+2020-03-14,Zona Pisana,Volterra ,,,,,
+2020-03-14,Zona Pisana,Lajatico ,,,,,
+2020-03-14,Zona Pisana,Santa Maria a Monte ,,,,,
+2020-03-14,Zona Livornese,Livorno ,1,,,,
+2020-03-14,Versilia,Seravezza ,,,,,
+2020-03-14,Versilia,Viareggio ,,,,,
+2020-03-14,Versilia,Massarosa ,,,,,
+2020-03-14,Versilia,Camaiore ,,,,,
+2020-03-15,Apuane,Carrara,,,,,
+2020-03-15,Apuane,Massa,,,,,
+2020-03-15,Lunigiana,Pontremoli ,,,,,
+2020-03-15,Lunigiana,Fivizzano,,,,,
+2020-03-15,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-03-15,Piana di Lucca,Lucca,,,,,
+2020-03-15,Piana di Lucca,Capannori,,,,,
+2020-03-15,Piana di Lucca,Altopascio ,,,,,
+2020-03-15,Piana di Lucca,Montecarlo ,,,,,
+2020-03-15,Piana di Lucca,Porcari,,,,,
+2020-03-15,Piana di Lucca,Villa Basilica,,,,,
+2020-03-15,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-03-15,Valle del Serchio,Barga,,,,,
+2020-03-15,Valle del Serchio,Coreglia Antelminelli,,,,,
+2020-03-15,Valle del Serchio,Borgo a Mozzano,,,,,
+2020-03-15,Valle del Serchio,Fabbriche di Vergemoli,,,,,
+2020-03-15,Valle del Serchio,Pieve Fosciana,,,,,
+2020-03-15,Zona Pisana,Pisa,,,,,
+2020-03-15,Zona Pisana,Cascina ,,,,,
+2020-03-15,Zona Pisana,San Giuliano Terme ,,,,,
+2020-03-15,Zona Pisana,Ponsacco ,,,,,
+2020-03-15,Zona Pisana,Bientina ,,,,,
+2020-03-15,Zona Pisana,Volterra ,,,,,
+2020-03-15,Zona Pisana,Calci ,,,,,
+2020-03-15,Zona Pisana,Terricciola ,,,,,
+2020-03-15,Zona Pisana,Santa Maria a Monte ,,,,,
+2020-03-15,Zona Livornese,Livorno ,,,,,
+2020-03-15,Zona Livornese,Cecina ,,,,,
+2020-03-15,Zona Livornese,Rosignano Marittimo ,,,,,
+2020-03-15,Zona Livornese,Piombino ,,,,,
+2020-03-15,Zona Livornese,Collesalvetti ,,,,,
+2020-03-15,Zona Livornese,Campiglia Marittima ,,,,,
+2020-03-15,Versilia,Seravezza ,,,,,
+2020-03-15,Versilia,Viareggio ,,,,,
+2020-03-15,Versilia,Pietrasanta ,,,,,
+2020-03-15,Versilia,Massarosa ,,,,,
+2020-03-15,Versilia,Camaiore ,,,,,
+2020-03-15,Versilia,Forte dei Marmi ,,,,,
+2020-03-15,Versilia,Stazzema ,,,,,
+2020-03-17,Apuane,Carrara,,,,,
+2020-03-17,Lunigiana,Pontremoli ,,,,,
+2020-03-17,Piana di Lucca,Lucca,,,,,
+2020-03-17,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-03-17,Zona Pisana,Pisa,,,,,
+2020-03-17,Valdera,Valdera,,,,,
+2020-03-17,Zona Livornese,Livorno,,,,,
+2020-03-17,Versilia,Viareggio ,,,,,
+2020-03-18,Apuane,Carrara,,,,,
+2020-03-18,Lunigiana,Pontremoli ,,,,,
+2020-03-18,Piana di Lucca,Lucca,,,,,
+2020-03-18,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-03-18,Zona Pisana,Pisa,,,,,
+2020-03-18,Valdera,Valdera,,,,,
+2020-03-18,Zona Livornese,Livorno,,,,,
+2020-03-18,Val di Cornia,Val di Cornia,,,,,
+2020-03-18,Versilia,Viareggio ,,,,,
+2020-03-19,Apuane,Carrara,,,,,
+2020-03-19,Lunigiana,Pontremoli ,,,,,
+2020-03-19,Piana di Lucca,Lucca,,,,,
+2020-03-19,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-03-19,Zona Pisana,Pisa,,,,,
+2020-03-19,Valdera,Valdera,,,,,
+2020-03-19,Zona Livornese,Livorno,,,,,
+2020-03-19,Val di Cornia,Val di Cornia,,,,,
+2020-03-19,Versilia,Viareggio ,,,,,
+2020-03-20,Apuane,Carrara,,,,,
+2020-03-20,Lunigiana,Pontremoli ,,,,,
+2020-03-20,Piana di Lucca,Lucca,,,,,
+2020-03-20,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-03-20,Zona Pisana,Pisa,,,,,
+2020-03-20,Valdera,Valdera,,,,,
+2020-03-20,Zona Livornese,Livorno,,,,,
+2020-03-20,Val di Cornia,Val di Cornia,,,,,
+2020-03-20,Versilia,Viareggio ,,,,,
+2020-03-21,Apuane,Carrara,1,,,,
+2020-03-21,Apuane,Massa,2,,,,
+2020-03-21,Lunigiana,Aulla,1,,,,
+2020-03-21,Lunigiana,Pontremoli ,3,,,,
+2020-03-21,Lunigiana,Fosdinovo,1,,,,
+2020-03-21,Lunigiana,Mulazzo,1,,,,
+2020-03-21,Lunigiana,Bagnone,1,,,,
+2020-03-21,Piana di Lucca,Lucca,,,,,
+2020-03-21,Piana di Lucca,Capannori,1,,,,
+2020-03-21,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-03-21,Zona Pisana,Pisa,2,,,,
+2020-03-21,Zona Pisana,Ponsacco ,1,,,,
+2020-03-21,Zona Pisana,Cascina,1,,,,
+2020-03-21,Zona Pisana,Peccioli,1,,,,
+2020-03-21,Valdera,Valdera,,,,,
+2020-03-21,Zona Livornese,Livorno,,,,,
+2020-03-21,Val di Cornia,Val di Cornia,,,,,
+2020-03-21,Versilia,Viareggio ,1,,,,
+2020-03-22,Apuane,Massa,2,,,,
+2020-03-22,Apuane,Carrara,1,,,,
+2020-03-22,Apuane,Montignoso,,,,,
+2020-03-22,Lunigiana,Aulla,,,,,
+2020-03-22,Lunigiana,Pontremoli,1,,,,
+2020-03-22,Lunigiana,Mulazzo,1,,,,
+2020-03-22,Lunigiana,Fivizzano,,,,,
+2020-03-22,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-03-22,Lunigiana,Bagnone,,,,,
+2020-03-22,Lunigiana,Licciana Nardi,,,,,
+2020-03-22,Lunigiana,Tresana,1,,,,
+2020-03-22,Piana di Lucca,Lucca,,,,,
+2020-03-22,Piana di Lucca,Capannori,,,,,
+2020-03-22,Piana di Lucca,Altopascio,,,,,
+2020-03-22,Piana di Lucca,Montecarlo,,,,,
+2020-03-22,Piana di Lucca,Porcari,,,,,
+2020-03-22,Valle del Serchio,Castelnuovo Garfagnana,1,,,,
+2020-03-22,Valle del Serchio,Barga,,,,,
+2020-03-22,Valle del Serchio,Minucciano,,,,,
+2020-03-22,Valle del Serchio,Coreglia Antelminelli,,,,,
+2020-03-22,Valle del Serchio,Gallicano,,,,,
+2020-03-22,Valle del Serchio,Castiglione Garfagnana,,,,,
+2020-03-22,Zona Pisana,Pisa,2,,,,
+2020-03-22,Zona Pisana,Cascina,,,,,
+2020-03-22,Zona Pisana,San Giuliano Terme,,,,,
+2020-03-22,Zona Pisana,Vecchiano,,,,,
+2020-03-22,Zona Pisana,Palaia,,,,,
+2020-03-22,Zona Pisana,Ponsacco,,,,,
+2020-03-22,Zona Pisana,Bientina,,,,,
+2020-03-22,Zona Pisana,Pontedera,,,,,
+2020-03-22,Zona Pisana,Pomarance,,,,,
+2020-03-22,Zona Pisana,Volterra,,,,,
+2020-03-22,Zona Pisana,Castelnuovo Val di Cecina,,,,,
+2020-03-22,Zona Livornese,Livorno,1,,,,
+2020-03-22,Zona Livornese,Cecina,,,,,
+2020-03-22,Zona Livornese,Rosignano Marittimo,1,,,,
+2020-03-22,Zona Livornese,Piombino,1,,,,
+2020-03-22,Elba,Rio nell'Elba,,,,,
+2020-03-22,Versilia,Seravezza,1,,,,
+2020-03-22,Versilia,Viareggio,,,,,
+2020-03-22,Versilia,Pietrasanta,,,,,
+2020-03-22,Versilia,Massarosa,,,,,
+2020-03-22,Versilia,Camaiore,,,,,
+2020-03-22,Versilia,Forte dei Marmi,,,,,
+2020-03-23,Apuane,Massa,,,,,
+2020-03-23,Apuane,Carrara,1,,,,
+2020-03-23,Lunigiana,Aulla,,,,,
+2020-03-23,Lunigiana,Filattiera,,,,,
+2020-03-23,Lunigiana,Pontremoli,1,,,,
+2020-03-23,Lunigiana,Mulazzo,,,,,
+2020-03-23,Lunigiana,Fivizzano,2,,,,
+2020-03-23,Lunigiana,Bagnone,1,,,,
+2020-03-23,Piana di Lucca,Lucca,1,,,,
+2020-03-23,Piana di Lucca,Capannori,,,,,
+2020-03-23,Piana di Lucca,Altopascio,,,,,
+2020-03-23,Piana di Lucca,Pescaglia,,,,,
+2020-03-23,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-03-23,Zona Pisana,Pisa,2,,,,
+2020-03-23,Zona Pisana,Cascina,,,,,
+2020-03-23,Zona Pisana,Vecchiano,,,,,
+2020-03-23,Zona Pisana,Ponsacco,,,,,
+2020-03-23,Zona Pisana,Pontedera,,,,,
+2020-03-23,Zona Pisana,Volterra,,,,,
+2020-03-23,Zona Pisana,Terricciola,,,,,
+2020-03-23,Zona Pisana,Buti,,,,,
+2020-03-23,Zona Pisana,Calcinaia,,,,,
+2020-03-23,Zona Pisana,Capannoli,,,,,
+2020-03-23,Zona Pisana,Casciana Terme Lari,1,,,,
+2020-03-23,Zona Pisana,Peccioli,,,,,
+2020-03-23,Zona Pisana,San Giuliano Terme,1,,,,
+2020-03-23,Zona Livornese,Livorno,,,,,
+2020-03-23,Bassa Val di Cecina Val di Cornia,Bibbona,,,,,
+2020-03-23,Bassa Val di Cecina Val di Cornia,Cecina,,,,,
+2020-03-23,Bassa Val di Cecina Val di Cornia,Piombino,,,,,
+2020-03-23,Versilia,Seravezza,,,,,
+2020-03-23,Versilia,Viareggio,,,,,
+2020-03-23,Versilia,Pietrasanta,,,,,
+2020-03-23,Versilia,Camaiore,,,,,
+2020-03-23,Versilia,Forte dei Marmi,,,,,
+2020-03-24,Apuane,Massa,1,,,,
+2020-03-24,Apuane,Carrara,2,,,,
+2020-03-24,Lunigiana,Aulla,,,,,
+2020-03-24,Lunigiana,Filattiera,,,,,
+2020-03-24,Lunigiana,Fivizzano,,,,,
+2020-03-24,Lunigiana,Fosdinovo,,,,,
+2020-03-24,Lunigiana,Licciana Nardi,,,,,
+2020-03-24,Lunigiana,Mulazzo,,,,,
+2020-03-24,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-03-24,Piana di Lucca,Lucca,,,,,
+2020-03-24,Piana di Lucca,Capannori,1,,,,
+2020-03-24,Valle del Serchio,Minucciano,,,,,
+2020-03-24,Valle del Serchio,Piazza al Serchio,,,,,
+2020-03-24,Valle del Serchio,Pieve Fosciana,,,,,
+2020-03-24,Zona Pisana,Pisa,,,,,
+2020-03-24,Zona Pisana,Cascina,1,,,,
+2020-03-24,Zona Pisana,San Giuliano Terme,,,,,
+2020-03-24,Zona Pisana,Bientina,,,,,
+2020-03-24,Zona Pisana,Pontedera,1,,,,
+2020-03-24,Zona Pisana,Santa Maria a Monte,,,,,
+2020-03-24,Zona Livornese,Livorno,1,,,,
+2020-03-24,Zona Livornese,Castagneto Carducci,,,,,
+2020-03-24,Zona Livornese,Cecina,,,,,
+2020-03-24,Zona Livornese,Rosignano,,,,,
+2020-03-24,Versilia,Camaiore,,,,,
+2020-03-24,Versilia,Forte dei Marmi,,,,,
+2020-03-24,Versilia,Massarosa,,,,,
+2020-03-24,Versilia,Pietrasanta,,,,,
+2020-03-24,Versilia,Seravezza,,,,,
+2020-03-25,Apuane,Carrara,,,,,
+2020-03-25,Apuane,Massa,,,,,
+2020-03-25,Apuane,Montignoso,,,,,
+2020-03-25,Lunigiana,Aulla,,,,,
+2020-03-25,Lunigiana,Licciana Nardi,,,,,
+2020-03-25,Lunigiana,Pontremoli,1,,,,
+2020-03-25,Lunigiana,Tresana,,,,,
+2020-03-25,Lunigiana,Fivizzano,1,,,,
+2020-03-25,Piana di Lucca,Altopascio,,,,,
+2020-03-25,Piana di Lucca,Capannori,,,,,
+2020-03-25,Piana di Lucca,Lucca,,,,,
+2020-03-25,Piana di Lucca,Montecarlo,,,,,
+2020-03-25,Piana di Lucca,Villa Basilica,,,,,
+2020-03-25,Valle del Serchio,Borgo a Mozzano,,,,,
+2020-03-25,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-03-25,Valle del Serchio,Piazza al Serchio,,,,,
+2020-03-25,Valle del Serchio,Pieve Fosciana,,,,,
+2020-03-25,Valle del Serchio,San Romano in Garfagnana,,,,,
+2020-03-25,Valle del Serchio,Bagni di Lucca,1,,,,
+2020-03-25,Zona Pisana,Cascina,,,,,
+2020-03-25,Zona Pisana,Pisa,,,,,
+2020-03-25,Zona Pisana,San Giuliano Terme,,,,,
+2020-03-25,Zona Pisana,Vecchiano,,,,,
+2020-03-25,Zona Pisana,Calcinaia,,,,,
+2020-03-25,Zona Pisana,Capannoli,,,,,
+2020-03-25,Zona Pisana,Palaia,,,,,
+2020-03-25,Zona Pisana,Peccioli,,,,,
+2020-03-25,Zona Pisana,Santa Maria a Monte,,,,,
+2020-03-25,Zona Pisana,Volterra,,,,,
+2020-03-25,Zona Livornese,Collesalvetti,,,,,
+2020-03-25,Zona Livornese,Livorno,,,,,
+2020-03-25,Bassa Val di Cecina Val di Cornia,Cecina,,,,,
+2020-03-25,Bassa Val di Cecina Val di Cornia,Riparbella,,,,,
+2020-03-25,Bassa Val di Cecina Val di Cornia,Rosignano,,,,,
+2020-03-25,Versilia,Camaiore,,,,,
+2020-03-25,Versilia,Forte dei Marmi,,,,,
+2020-03-25,Versilia,Massarosa,,,,,
+2020-03-25,Versilia,Pietrasanta,,,,,
+2020-03-25,Versilia,Seravezza,,,,,
+2020-03-25,Versilia,Viareggio,,,,,
+2020-03-26,Apuane,Carrara,1,,,,
+2020-03-26,Apuane,Massa,1,,,,
+2020-03-26,Lunigiana,Aulla,2,,,,
+2020-03-26,Lunigiana,Fivizzano,,,,,
+2020-03-26,Lunigiana,Fosdinovo,,,,,
+2020-03-26,Lunigiana,Licciana Nardi,,,,,
+2020-03-26,Lunigiana,Mulazzo,,,,,
+2020-03-26,Lunigiana,Pontremoli,,,,,
+2020-03-26,Lunigiana,Tresana,,,,,
+2020-03-26,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-03-26,Lunigiana,Zeri,,,,,
+2020-03-26,Piana di Lucca,Altopascio,,,,,
+2020-03-26,Piana di Lucca,Capannori,,,,,
+2020-03-26,Piana di Lucca,Lucca,,,,,
+2020-03-26,Valle del Serchio,Borgo a Mozzano,,,,,
+2020-03-26,Valle del Serchio,Camporgiano,,,,,
+2020-03-26,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-03-26,Valle del Serchio,Coreglia,,,,,
+2020-03-26,Valle del Serchio,Pieve Fosciana,,,,,
+2020-03-26,Valle del Serchio,San Romano in Garfagnana,,,,,
+2020-03-26,Valle del Serchio,Vagli di Sotto,,,,,
+2020-03-26,Valle del Serchio,Villa Collemandina,,,,,
+2020-03-26,Zona Pisana,Calci,,,,,
+2020-03-26,Zona Pisana,Pisa,,,,,
+2020-03-26,Zona Pisana,San Giuliano Terme,,,,,
+2020-03-26,Zona Pisana,Vecchiano,1,,,,
+2020-03-26,Zona Pisana,Capannoli,,,,,
+2020-03-26,Zona Pisana,Casciana Terme Lari,,,,,
+2020-03-26,Zona Pisana,Pomarance,,,,,
+2020-03-26,Zona Pisana,Ponsacco,,,,,
+2020-03-26,Zona Pisana,Pontedera,1,,,,
+2020-03-26,Zona Pisana,Volterra,,,,,
+2020-03-26,Zona Pisana,Vicopisano,1,,,,
+2020-03-26,Zona Livornese,Collesalvetti,,,,,
+2020-03-26,Zona Livornese,Livorno,1,,,,
+2020-03-26,Bassa Val di Cecina Val di Cornia,Cecina,,,,,
+2020-03-26,Bassa Val di Cecina Val di Cornia,Piombino,,,,,
+2020-03-26,Bassa Val di Cecina Val di Cornia,Riparbella,,,,,
+2020-03-26,Bassa Val di Cecina Val di Cornia,Rosignano M,,,,,
+2020-03-26,Versilia,Camaiore,,,,,
+2020-03-26,Versilia,Forte dei Marmi,,,,,
+2020-03-26,Versilia,Massarosa,,,,,
+2020-03-26,Versilia,Pietrasanta,,,,,
+2020-03-26,Versilia,Seravezza,,,,,
+2020-03-26,Versilia,Viareggio,,,,,
+2020-03-27,Apuane,Carrara,,,,,
+2020-03-27,Apuane,Massa,,,,,
+2020-03-27,Lunigiana,Pontremoli,,,,,
+2020-03-27,Lunigiana,Aulla,,,,,
+2020-03-27,Lunigiana,Fivizzano,,,,,
+2020-03-27,Lunigiana,Licciana Nardi,,,,,
+2020-03-27,Lunigiana,Mulazzo,,,,,
+2020-03-27,Lunigiana,Pontremoli,3,,,,
+2020-03-27,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-03-27,Lunigiana,Casola in Lunigiana,,,,,
+2020-03-27,Lunigiana,Bagnone,,,,,
+2020-03-27,Lunigiana,Filattiera,,,,,h
+2020-03-27,Piana di Lucca,Altopascio,,,,,
+2020-03-27,Piana di Lucca,Capannori,,,,,
+2020-03-27,Piana di Lucca,Lucca,,,,,
+2020-03-27,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-03-27,Valle del Serchio,Fabbriche di Vergemoli,1,,,,
+2020-03-27,Valle del Serchio,Molazzana,,,,,
+2020-03-27,Valle del Serchio,Barga,,,,,
+2020-03-27,Zona Pisana,Pisa,1,,,,
+2020-03-27,Zona Pisana,Cascina,,,,,
+2020-03-27,Zona Pisana,Vico Pisano,,,,,
+2020-03-27,Zona Pisana,Vecchiano,1,,,,
+2020-03-27,Alta Val di Cecina Valdera,Peccioli,,,,,
+2020-03-27,Alta Val di Cecina Valdera,Volterra,,,,,
+2020-03-27,Alta Val di Cecina Valdera,Calcinaia,,,,,
+2020-03-27,Alta Val di Cecina Valdera,Pomarance,,,,,
+2020-03-27,Alta Val di Cecina Valdera,Palaia,,,,,
+2020-03-27,Alta Val di Cecina Valdera,Bientina,,,,,
+2020-03-27,Alta Val di Cecina Valdera,S  M. a Monte,,,,,
+2020-03-27,Alta Val di Cecina Valdera,Capannoli,,,,,
+2020-03-27,Zona Livornese,Collesalvetti,,,,,
+2020-03-27,Zona Livornese,Livorno,,,,,
+2020-03-27,Versilia,Camaiore,,,,,
+2020-03-27,Versilia,Massarosa,,,,,
+2020-03-27,Versilia,Pietrasanta,2,,,,
+2020-03-27,Versilia,Seravezza,1,,,,
+2020-03-27,Versilia,Viareggio,3,,,,
+2020-03-27,Versilia,Stazzema,,,,,
+2020-03-28,Apuane,Carrara,,,,,
+2020-03-28,Apuane,Massa,,,,,
+2020-03-28,Apuane,Montignoso,,,,,
+2020-03-28,Lunigiana,Aulla,,,,,
+2020-03-28,Lunigiana,Bagnone,,,,,
+2020-03-28,Lunigiana,Filattiera,,,,,
+2020-03-28,Lunigiana,Fivizzano,,,,,
+2020-03-28,Lunigiana,Fosdinovo,,,,,
+2020-03-28,Lunigiana,Licciana Nardi,,,,,
+2020-03-28,Lunigiana,Pontremoli,1,,,,
+2020-03-28,Lunigiana,Tresana,,,,,
+2020-03-28,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-03-28,Lunigiana,Zeri,,,,,
+2020-03-28,Piana di Lucca,Altopascio,,,,,
+2020-03-28,Piana di Lucca,Capannori,1,,,,
+2020-03-28,Piana di Lucca,Lucca,1,,,,
+2020-03-28,Valle del Serchio,Bagni di Lucca,,,,,
+2020-03-28,Valle del Serchio,Barga,,,,,
+2020-03-28,Valle del Serchio,Borgo a Mozzano,,,,,
+2020-03-28,Valle del Serchio,Coreglia Antelminelli,,,,,
+2020-03-28,Valle del Serchio,Fabbriche di Vergemoli,,,,,
+2020-03-28,Valle del Serchio,Gallicano,,,,,
+2020-03-28,Valle del Serchio,Piazza al Serchio,,,,,
+2020-03-28,Valle del Serchio,Pieve Fosciana,,,,,
+2020-03-28,Valle del Serchio,Vagli di Sotto,,,,,
+2020-03-28,Zona Pisana,Cascina,,,,,
+2020-03-28,Zona Pisana,Pisa,,,,,
+2020-03-28,Zona Pisana,San Giuliano Terme,,,,,
+2020-03-28,Zona Pisana,Vicopisano,,,,,
+2020-03-28,Zona Pisana,Bientina,,,,,
+2020-03-28,Zona Pisana,Capannoli,,,,,
+2020-03-28,Zona Pisana,Casciana Terme Lari,1,,,,
+2020-03-28,Zona Pisana,Peccioli,,,,,
+2020-03-28,Zona Pisana,Pontedera,,,,,
+2020-03-28,Zona Pisana,Santa Maria a Monte,1,,,,
+2020-03-28,Zona Pisana,Terricciola,,,,,
+2020-03-28,Zona Pisana,Volterra,,,,,
+2020-03-28,Zona Livornese,Livorno,1,,,,
+2020-03-28,Bassa Val di Cecina Val di Cornia,Cecina,,,,,
+2020-03-28,Bassa Val di Cecina Val di Cornia,Piombino,,,,,
+2020-03-28,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,,,,,
+2020-03-28,Bassa Val di Cecina Val di Cornia,San Vincenzo,,,,,
+2020-03-28,Versilia,Camaiore,,,,,
+2020-03-28,Versilia,Massarosa,1,,,,
+2020-03-28,Versilia,Pietrasanta,1,,,,
+2020-03-28,Versilia,Viareggio,,,,,
+2020-03-29,Apuane,Carrara ,,,,,
+2020-03-29,Apuane,Massa,,,,,
+2020-03-29,Lunigiana,Aulla,,,,,
+2020-03-29,Lunigiana,Bagnone ,,,,,
+2020-03-29,Lunigiana,Fivizzano ,1,,,,
+2020-03-29,Lunigiana,Mulazzo,,,,,
+2020-03-29,Lunigiana,Podenzana ,,,,,
+2020-03-29,Lunigiana,Tresana,,,,,
+2020-03-29,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-03-29,Piana di Lucca,Lucca ,1,,,,
+2020-03-29,Piana di Lucca,Capannori,,,,,
+2020-03-29,Piana di Lucca,Altopascip,,,,,
+2020-03-29,Valle del Serchio,Bagni di Lucca,,,,,
+2020-03-29,Zona Pisana,Pisa,1,,,,
+2020-03-29,Zona Pisana,San Giuliano Terme,,,,,
+2020-03-29,Zona Pisana,Vecchiano ,,,,,
+2020-03-29,Zona Pisana,Vicopisano,,,,,
+2020-03-29,Zona Pisana,Calcinaia ,,,,,
+2020-03-29,Zona Pisana,Capannoli,,,,,
+2020-03-29,Zona Pisana,Palaia,,,,,
+2020-03-29,Zona Pisana,Pomarance ,,,,,
+2020-03-29,Zona Pisana,Ponsacco ,,,,,
+2020-03-29,Zona Pisana,Terricciola,,,,,
+2020-03-29,Zona Pisana,Volterra,,,,,
+2020-03-29,Zona Livornese,Livorno,3,,,,
+2020-03-29,Zona Livornese,Campiglia Marittima ,,,,,
+2020-03-29,Zona Livornese,Cecina,,,,,
+2020-03-29,Zona Livornese,Guardistallo,,,,,
+2020-03-29,Zona Livornese,Piombino ,1,,,,
+2020-03-29,Zona Livornese,Rosignano Marittimo,,,,,
+2020-03-29,Elba,Rio Elba,1,,,,
+2020-03-29,Versilia,Camaiore,,,,,
+2020-03-29,Versilia,Forte dei Marmi ,,,,,
+2020-03-29,Versilia,Massarosa,,,,,
+2020-03-29,Versilia,Pietrasanta,,,,,
+2020-03-29,Versilia,Seravezza,,,,,
+2020-03-29,Versilia,Viareggio ,1,,,,
+2020-03-30,Apuane,Carrara,,,,,
+2020-03-30,Apuane,Massa,,,,,
+2020-03-30,Lunigiana,Aulla,,,,,
+2020-03-30,Lunigiana,Bagnone,,,,,
+2020-03-30,Lunigiana,Fivizzano ,,,,,
+2020-03-30,Lunigiana,Licciana Nardi,1,,,,
+2020-03-30,Lunigiana,Mulazzo,,,,,
+2020-03-30,Lunigiana,Pontremoli,,,,,
+2020-03-30,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-03-30,Piana di Lucca,Lucca,,,,,
+2020-03-30,Piana di Lucca,Capannori,,,,,
+2020-03-30,Valle del Serchio,Bagni di Lucca,,,,,
+2020-03-30,Valle del Serchio,Barga,,,,,
+2020-03-30,Valle del Serchio,Camporgiano,,,,,
+2020-03-30,Valle del Serchio,Gallicano,,,,,
+2020-03-30,Valle del Serchio,Minucciano,,,,,
+2020-03-30,Valle del Serchio,Molazzana ,,,,,
+2020-03-30,Zona Pisana,Cascina,,,,,
+2020-03-30,Zona Pisana,Pisa,,,,,
+2020-03-30,Zona Pisana,San Giuliano Terme ,,,,,
+2020-03-30,Zona Pisana,Vecchiano ,,,,,
+2020-03-30,Zona Pisana,Vicopisano,,,,,
+2020-03-30,Zona Pisana,Bientina,,,,,
+2020-03-30,Zona Pisana,Calcinaia ,,,,,
+2020-03-30,Zona Pisana,Casciana Terme Lari,,,,,
+2020-03-30,Zona Pisana,Ponsacco ,,,,,
+2020-03-30,Zona Pisana,Santa Maria a Monte,,,,,
+2020-03-30,Zona Livornese,Collesalvetti ,,,,,
+2020-03-30,Zona Livornese,Livorno,,,,,
+2020-03-30,Zona Livornese,Cecina,1,,,,
+2020-03-30,Zona Livornese,Piombino ,,,,,
+2020-03-30,Zona Livornese,Rosignano Marittimo,,,,,
+2020-03-30,Elba,Rio Elba,,,,,
+2020-03-30,Versilia,Camaiore ,,,,,
+2020-03-30,Versilia,Forte dei Marmi ,,,,,
+2020-03-30,Versilia,Massarosa ,1,,,,
+2020-03-30,Versilia,Seravezza,,,,,
+2020-03-30,Versilia,Stazzema ,,,,,
+2020-03-30,Versilia,Viareggio ,,,,,
+2020-04-01,Apuane,Carrara,,,,,
+2020-04-01,Apuane,Massa,,,,,
+2020-04-01,Apuane,Montignoso ,,,,,
+2020-04-01,Lunigiana,Aulla ,,,,,
+2020-04-01,Lunigiana,Bagnone,1,,,,
+2020-04-01,Lunigiana,Filattiera,,,,,
+2020-04-01,Lunigiana,Fivizzano,,,,,
+2020-04-01,Lunigiana,Licciana Nardi,,,,,
+2020-04-01,Lunigiana,Pontremoli ,,,,,
+2020-04-01,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-04-01,Piana di Lucca,Lucca,1,,,,
+2020-04-01,Valle del Serchio,Bagni di Lucca,,,,,
+2020-04-01,Valle del Serchio,Barga,1,,,,
+2020-04-01,Valle del Serchio,Borgo a Mozzano,,,,,
+2020-04-01,Valle del Serchio,Gallicano ,,,,,
+2020-04-01,Valle del Serchio,Molazzana ,,,,,
+2020-04-01,Zona Pisana,Cascina,,,,,
+2020-04-01,Zona Pisana,Pisa,,,,,
+2020-04-01,Zona Pisana,San Giuliano Terme,,,,,
+2020-04-01,Zona Pisana,Vicopisano,,,,,
+2020-04-01,Zona Pisana,Riparbella,1,,,,
+2020-04-01,Zona Pisana,Peccioli,1,,,,
+2020-04-01,Zona Livornese,Collesalvetti ,,,,,
+2020-04-01,Zona Livornese,Livorno ,,,,,
+2020-04-01,Bassa Val di Cecina Val di Cornia,Campiglia Marittima ,,,,,
+2020-04-01,Bassa Val di Cecina Val di Cornia,Cecina,,,,,
+2020-04-01,Bassa Val di Cecina Val di Cornia,Piombino,,,,,
+2020-04-01,Bassa Val di Cecina Val di Cornia,Rosignano,1,,,,
+2020-04-01,Versilia,Camaiore,1,,,,
+2020-04-01,Versilia,Forte dei Marmi ,,,,,
+2020-04-01,Versilia,Massarosa,,,,,
+2020-04-01,Versilia,Pietrasanta,1,,,,
+2020-04-01,Versilia,Seravezza ,,,,,
+2020-04-01,Versilia,Viareggio ,,,,,
+2020-04-01,Toscana,Toscana,,19,22,,
+2020-04-02,Apuane,Carrara,,,,,
+2020-04-02,Apuane,Massa,,,,,
+2020-04-02,Apuane,Montignoso,,,,,
+2020-04-02,Lunigiana,Filattiera,,,,,
+2020-04-02,Lunigiana,Fivizzano ,,,,,
+2020-04-02,Lunigiana,Pontremoli ,,,,,
+2020-04-02,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-04-02,Lunigiana,Zeri ,,,,,
+2020-04-02,Piana di Lucca,Altopascio,,,,,
+2020-04-02,Piana di Lucca,Capannori,1,,,,
+2020-04-02,Piana di Lucca,Lucca,,,,,
+2020-04-02,Piana di Lucca,Montecarlo ,,,,,
+2020-04-02,Piana di Lucca,Porcari,,,,,
+2020-04-02,Valle del Serchio,Bagni di Lucca,,,,,
+2020-04-02,Valle del Serchio,Barga,,,,,
+2020-04-02,Zona Pisana,Cascina ,,,,,
+2020-04-02,Zona Pisana,Crespina Lorenzana,,,,,
+2020-04-02,Zona Pisana,Pisa,2,,,,
+2020-04-02,Zona Pisana,San Giuliano Terme,,,,,
+2020-04-02,Zona Pisana,Vecchiano ,,,,,
+2020-04-02,Alta  Val di Cecina Val d'Era,Capannoli,,,,,
+2020-04-02,Alta  Val di Cecina Val d'Era,Palaia,,,,,
+2020-04-02,Alta  Val di Cecina Val d'Era,Peccioli,,,,,
+2020-04-02,Alta  Val di Cecina Val d'Era,Pontedera,,,,,
+2020-04-02,Alta  Val di Cecina Val d'Era,Santa Maria a Monte,,,,,
+2020-04-02,Zona Livornese,Collesalvetti ,,,,,
+2020-04-02,Zona Livornese,Livorno,,,,,
+2020-04-02,Bassa Val di Cecina Val di Cornia,Guardistallo,,,,,
+2020-04-02,Bassa Val di Cecina Val di Cornia,Rosignano,,,,,
+2020-04-02,Versilia,Camaiore,,,,,
+2020-04-02,Versilia,Pietrasanta,,,,,
+2020-04-02,Versilia,Stazzema ,,,,,
+2020-04-02,Versilia,Viareggio,1,,,,
+2020-04-02,Toscana,Toscana,,6,5,,
+2020-04-03,Apuane,Carrara,1,,,,
+2020-04-03,Apuane,Massa,1,,,,
+2020-04-03,Piana di Lucca,Altopascio,,,,,
+2020-04-03,Piana di Lucca,Capannori ,,,,,
+2020-04-03,Piana di Lucca,Lucca,,,,,
+2020-04-03,Piana di Lucca,Montecarlo ,,,,,
+2020-04-03,Piana di Lucca,Porcari,1,,,,
+2020-04-03,Piana di Lucca,Villa Basilica,,,,,
+2020-04-03,Valle del Serchio,Bagni di Lucca,,,,,
+2020-04-03,Zona Pisana,San Giuliano Terme,,,,,
+2020-04-03,Zona Pisana,Cascina,1,,,,
+2020-04-03,Alta  Val di Cecina Val d'Era,Volterra,,,,,
+2020-04-03,Zona Livornese,Livorno,,,,,
+2020-04-03,Versilia,Camaiore,,,,,
+2020-04-03,Versilia,Forte dei Marmi ,,,,,
+2020-04-03,Versilia,Massarosa,1,,,,
+2020-04-03,Versilia,Pietrasanta,,,,,
+2020-04-03,Versilia,Seravezza,1,,,,
+2020-04-03,Versilia,Viareggio,,,,,
+2020-04-03,Toscana,Toscana,,15,50,,
+2020-04-04,Apuane,Carrara,1,,,,
+2020-04-04,Apuane,Massa,,,,,
+2020-04-04,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-04-04,Lunigiana,Filattiera,1,,,,
+2020-04-04,Lunigiana,Mulazzo,1,,,,
+2020-04-04,Piana di Lucca,Capannori,1,,,,
+2020-04-04,Piana di Lucca,Lucca,,,,,
+2020-04-04,Valle del Serchio,Barga,,,,,
+2020-04-04,Valle del Serchio,Coreglia Antelminelli,,,,,
+2020-04-04,Valle del Serchio,Gallicano,,,,,
+2020-04-04,Valle del Serchio,Minucciano,,,,,
+2020-04-04,Valle del Serchio,Borgo a Mozzano,1,,,,
+2020-04-04,Zona Pisana,Cascina,,,,,
+2020-04-04,Zona Pisana,Pisa,,,,,
+2020-04-04,Zona Pisana,San Giuliano Terme,,,,,
+2020-04-04,Zona Livornese,Livorno,3,,,,
+2020-04-04,Bassa Val di Cecina Val di Cornia,Piombino ,,,,,
+2020-04-04,Versilia,Camaiore,,,,,
+2020-04-04,Versilia,Pietrasanta ,1,,,,
+2020-04-04,Versilia,Seravezza,,,,,
+2020-04-04,Versilia,Viareggio ,,,,,
+2020-04-04,Toscana,Toscana,,0,6,,
+2020-04-05,Apuane,Massa,1,,,,
+2020-04-05,Lunigiana,Aulla,,,,,
+2020-04-05,Lunigiana,Fivizzano ,,,,,
+2020-04-05,Lunigiana,Fosdinovo,,,,,
+2020-04-05,Lunigiana,Pontremoli,,,,,
+2020-04-05,Lunigiana,Licciana Nardi,1,,,,
+2020-04-05,Piana di Lucca,Capannori,1,,,,
+2020-04-05,Valle del Serchio,Barga,,,,,
+2020-04-05,Valle del Serchio,Gallicano,1,,,,
+2020-04-05,Zona Pisana,Cascina ,,,,,
+2020-04-05,Zona Pisana,Fauglia ,,,,,
+2020-04-05,Zona Pisana,Pisa ,1,,,,
+2020-04-05,Zona Pisana,San Giuliano ,,,,,
+2020-04-05,Zona Pisana,Vecchiano ,,,,,
+2020-04-05,Alta  Val di Cecina Val d'Era,Capannoli,,,,,
+2020-04-05,Alta  Val di Cecina Val d'Era,Terricciola,,,,,
+2020-04-05,Alta  Val di Cecina Val d'Era,Volterra,,,,,
+2020-04-05,Alta  Val di Cecina Val d'Era,Pontedera,2,,,,
+2020-04-05,Zona Livornese,Livorno,1,,,,
+2020-04-05,Versilia,Camaiore,,,,,
+2020-04-05,Versilia,Forte dei Marmi ,,,,,
+2020-04-05,Versilia,Pietrasanta,1,,,,
+2020-04-05,Versilia,Viareggio ,1,,,,
+2020-04-05,Versilia,Seravezza ,1,,,,
+2020-04-05,Toscana,Toscana,,6,9,,
+2020-04-06,Apuane,Carrara,2,,,,
+2020-04-06,Apuane,Massa,1,,,,
+2020-04-06,Apuane,Montignoso,1,,,,
+2020-04-06,Lunigiana,Aulla ,,,,,
+2020-04-06,Lunigiana,Filattiera,,,,,
+2020-04-06,Lunigiana,Fivizzano,,,,,
+2020-04-06,Lunigiana,Pontremoli ,,,,,
+2020-04-06,Lunigiana,Villafranca in Lunigiana,,,,,
+2020-04-06,Piana di Lucca,Capannori,1,,,,
+2020-04-06,Piana di Lucca,Lucca,1,,,,
+2020-04-06,Piana di Lucca,Porcari,,,,,
+2020-04-06,Valle del Serchio,Barga ,,,,,
+2020-04-06,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-04-06,Zona Pisana,Pisa,,,,,
+2020-04-06,Zona Pisana,Vecchiano ,,,,,
+2020-04-06,Alta  Val di Cecina Val d'Era,Casciana Terme Lari,,,,,
+2020-04-06,Alta  Val di Cecina Val d'Era,Palaia,,,,,
+2020-04-06,Alta  Val di Cecina Val d'Era,Santa Maria a Monte,,,,,
+2020-04-06,Alta  Val di Cecina Val d'Era,Terricciola,,,,,
+2020-04-06,Alta  Val di Cecina Val d'Era,Volterra,,,,,
+2020-04-06,Zona Livornese,Livorno,,,,,
+2020-04-06,Versilia,Camaiore ,1,,,,
+2020-04-06,Versilia,Pietrasanta,,,,,
+2020-04-06,Versilia,Viareggio,1,,,,
+2020-04-06,Versilia,Forte dei Marmi ,1,,,,
+2020-04-06,Toscana,Toscana,,2,8,,
+2020-04-07,Apuane,Carrara,,,,,
+2020-04-07,Apuane,Massa,1,,,,
+2020-04-07,Lunigiana,Aulla ,,,,,
+2020-04-07,Lunigiana,Filattiera,,,,,
+2020-04-07,Lunigiana,Fivizzano,,,,,
+2020-04-07,Lunigiana,Fosdinovo,,,,,
+2020-04-07,Lunigiana,Licciana Nardi,,,,,
+2020-04-07,Lunigiana,Mulazzo,,,,,
+2020-04-07,Lunigiana,Podenzana ,,,,,
+2020-04-07,Lunigiana,Pontremoli ,,,,,
+2020-04-07,Lunigiana,Tresana,,,,,
+2020-04-07,Lunigiana,Villafranca,,,,,
+2020-04-07,Piana di Lucca,Altopascio ,,,,,
+2020-04-07,Piana di Lucca,Capannori,1,,,,
+2020-04-07,Piana di Lucca,Lucca,1,,,,
+2020-04-07,Piana di Lucca,Montecarlo ,1,,,,
+2020-04-07,Valle del Serchio,Bagni di Lucca,,,,,
+2020-04-07,Valle del Serchio,Barga,,,,,
+2020-04-07,Valle del Serchio,Camporgiano,,,,,
+2020-04-07,Valle del Serchio,Coreglia Antelminelli,,,,,
+2020-04-07,Valle del Serchio,Gallicano,,,,,
+2020-04-07,Zona Pisana,Cascina,,,,,
+2020-04-07,Zona Pisana,Pisa,,,,,
+2020-04-07,Zona Pisana,Vicopisano,,,,,
+2020-04-07,Alta  Val di Cecina Val d'Era,Capannoli,,,,,
+2020-04-07,Alta  Val di Cecina Val d'Era,Lajatico ,,,,,
+2020-04-07,Alta  Val di Cecina Val d'Era,Palaia,,,,,
+2020-04-07,Alta  Val di Cecina Val d'Era,Peccioli,,,,,
+2020-04-07,Alta  Val di Cecina Val d'Era,Pontedera,,,,,
+2020-04-07,Alta  Val di Cecina Val d'Era,Volterra,,,,,
+2020-04-07,Zona Livornese,Livorno,,,,,
+2020-04-07,Versilia,Pietrasanta,1,,,,
+2020-04-07,Versilia,Seravezza,,,,,
+2020-04-07,Versilia,Viareggio,,,,,
+2020-04-07,Versilia,Forte dei Marmi ,1,,,,
+2020-04-07,Versilia,Camaiore,1,,,,
+2020-04-07,Toscana,Toscana,,5,0,,
+2020-04-08,Apuane,Carrara,,,,,
+2020-04-08,Apuane,Massa,,,,,
+2020-04-08,Apuane,Montignoso,,,,,
+2020-04-08,Lunigiana,Aulla,,,,,
+2020-04-08,Lunigiana,Casola in Lunigiana ,,,,,
+2020-04-08,Lunigiana,Pontremoli,,,,,
+2020-04-08,Lunigiana,Villafranca ,,,,,
+2020-04-08,Lunigiana,Zeri,1,,,,
+2020-04-08,Piana di Lucca,Altopascio ,,,,,
+2020-04-08,Piana di Lucca,Lucca,,,,,
+2020-04-08,Valle del Serchio,Barga ,,,,,
+2020-04-08,Valle del Serchio,Piazza al Serchio,,,,,
+2020-04-08,Valle del Serchio,Pieve Fosciana,,,,,
+2020-04-08,Zona Pisana,Pisa,,,,,
+2020-04-08,Zona Pisana,Vicopisano,,,,,
+2020-04-08,Zona Pisana,San Giuliano Terme,,,,,
+2020-04-08,Alta  Val di Cecina Val d'Era,Bientina,,,,,
+2020-04-08,Alta  Val di Cecina Val d'Era,Casciana Terme Lari,,,,,
+2020-04-08,Alta  Val di Cecina Val d'Era,Palaia,,,,,
+2020-04-08,Alta  Val di Cecina Val d'Era,Peccioli,1,,,,
+2020-04-08,Alta  Val di Cecina Val d'Era,Ponsacco ,,,,,
+2020-04-08,Alta  Val di Cecina Val d'Era,Pontedera,,,,,
+2020-04-08,Alta  Val di Cecina Val d'Era,Santa Maria a Monte,,,,,
+2020-04-08,Alta  Val di Cecina Val d'Era,Terricciola,,,,,
+2020-04-08,Zona Livornese,Collesalvetti ,,,,,
+2020-04-08,Zona Livornese,Livorno,,,,,
+2020-04-08,Bassa Val di Cecina Val di Cornia,Guardistallo,,,,,
+2020-04-08,Bassa Val di Cecina Val di Cornia,Piombino,,,,,
+2020-04-08,Bassa Val di Cecina Val di Cornia,Rosignano,,,,,
+2020-04-08,Bassa Val di Cecina Val di Cornia,San Vincenzo,,,,,
+2020-04-08,Versilia,Massarosa,,,,,
+2020-04-08,Versilia,Pietrasanta,,,,,
+2020-04-08,Versilia,Seravezza ,,,,,
+2020-04-08,Versilia,Stazzema ,,,,,
+2020-04-08,Versilia,Viareggio ,,,,,
+2020-04-08,Toscana,Toscana,,0,2,,
+2020-04-09,Apuane,Carrara ,,,,,
+2020-04-09,Apuane,Massa,1,,,,
+2020-04-09,Apuane,Montignoso,,,,,
+2020-04-09,Lunigiana,Bagnone,,,,,
+2020-04-09,Lunigiana,Pontremoli ,,,,,
+2020-04-09,Lunigiana,Mulazzo,1,,,,
+2020-04-09,Piana di Lucca,Capannori,,,,,
+2020-04-09,Piana di Lucca,Lucca,,,,,
+2020-04-09,Valle del Serchio,Bagni di Lucca,,,,,
+2020-04-09,Valle del Serchio,Barga,,,,,
+2020-04-09,Valle del Serchio,Fabbriche di Vergemoli,,,,,
+2020-04-09,Zona Pisana,Cascina,1,,,,
+2020-04-09,Zona Pisana,Pisa,1,,,,
+2020-04-09,Alta  Val di Cecina Val d'Era,Volterra,,,,,
+2020-04-09,Zona Livornese,Livorno ,,,,,
+2020-04-09,Versilia,Massarosa,,,,,
+2020-04-09,Versilia,Pietrasanta,,,,,
+2020-04-09,Versilia,Viareggio ,,,,,
+2020-04-09,Versilia,Seravezza,1,,,,
+2020-04-09,Toscana,Toscana,,0,0,,
+2020-04-10,Apuane,Carrara,,,,,
+2020-04-10,Apuane,Massa 3,,,,,
+2020-04-10,Lunigiana,Aulla,,,,,
+2020-04-10,Lunigiana,Licciana Nardi,1,,,,
+2020-04-10,Piana di Lucca,Capannori,,,,,
+2020-04-10,Piana di Lucca,Lucca,,,,,
+2020-04-10,Valle del Serchio,Barga,,,,,
+2020-04-10,Zona Pisana,Cascina ,,,,,
+2020-04-10,Zona Pisana,Pisa ,1,,,,
+2020-04-10,Zona Livornese,Livorno ,2,,,,
+2020-04-10,Versilia,Pietrasanta,,,,,
+2020-04-10,Versilia,Stazzema ,,,,,
+2020-04-10,Versilia,Viareggio ,2,,,,
+2020-04-10,Versilia,Massarosa ,1,,,,
+2020-04-10,Versilia,Seravezza,1,,,,
+2020-04-10,Toscana,Toscana,,7,0,,
+2020-04-11,Apuane,Carrara,,,,,
+2020-04-11,Apuane,Massa,1,,,,
+2020-04-11,Apuane,Montignoso ,,,,,
+2020-04-11,Lunigiana,Bagnone,,,,,
+2020-04-11,Lunigiana,Licciana Nardi,,,,,
+2020-04-11,Lunigiana,Pontremoli,,,,,
+2020-04-11,Lunigiana,Fivizzano,2,,,,
+2020-04-11,Lunigiana,Aulla,1,,,,
+2020-04-11,Piana di Lucca,Altopascio,,,,,
+2020-04-11,Piana di Lucca,Lucca,,,,,
+2020-04-11,Valle del Serchio,Bagni di Lucca,,,,,
+2020-04-11,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-04-11,Valle del Serchio,Gallicano,,,,,
+2020-04-11,Zona Pisana,Cascina,,,,,
+2020-04-11,Zona Pisana,Pisa,1,,,,
+2020-04-11,Zona Pisana,San Giuliano Terme,,,,,
+2020-04-11,Alta  Val di Cecina Val d'Era,Calcinaia ,,,,,
+2020-04-11,Alta  Val di Cecina Val d'Era,Casciana Terme Lari,,,,,
+2020-04-11,Alta  Val di Cecina Val d'Era,Palaia,,,,,
+2020-04-11,Alta  Val di Cecina Val d'Era,Peccioli ,,,,,
+2020-04-11,Alta  Val di Cecina Val d'Era,Ponsacco ,,,,,
+2020-04-11,Alta  Val di Cecina Val d'Era,Pontedera,,,,,
+2020-04-11,Alta  Val di Cecina Val d'Era,Volterra,,,,,
+2020-04-11,Zona Livornese,Livorno,,,,,
+2020-04-11,Elba,Portoferraio,,,,,
+2020-04-11,Bassa Val di Cecina Val di Cornia,Bibbona,,,,,
+2020-04-11,Bassa Val di Cecina Val di Cornia,Castagneto Carducci,,,,,
+2020-04-11,Bassa Val di Cecina Val di Cornia,Castellina Marittima,,,,,
+2020-04-11,Bassa Val di Cecina Val di Cornia,Cecina,,,,,
+2020-04-11,Versilia,Camaiore,,,,,
+2020-04-11,Versilia,Forte dei Marmi ,,,,,
+2020-04-11,Versilia,Massarosa,,,,,
+2020-04-11,Versilia,Pietrasanta,,,,,
+2020-04-11,Versilia,Seravezza,,,,,
+2020-04-11,Versilia,Stazzema ,,,,,
+2020-04-11,Versilia,Viareggio ,,,,,
+2020-04-11,Toscana,Toscana,,34,0,,
+2020-04-12,Apuane,Carrara,,,,,
+2020-04-12,Apuane,Massa,3,,,,
+2020-04-12,Lunigiana,Mulazzo,,,,,
+2020-04-12,Lunigiana,Tresana,,,,,
+2020-04-12,Lunigiana,Fivizzano,,,,,
+2020-04-12,Piana di Lucca,Capannori,,,,,
+2020-04-12,Piana di Lucca,Lucca,,,,,
+2020-04-12,Valle del Serchio,Barga ,,,,,
+2020-04-12,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-04-12,Zona Pisana,Cascina ,,,,,
+2020-04-12,Zona Pisana,Pisa,1,,,,
+2020-04-12,Zona Pisana,San Giuliano ,,,,,
+2020-04-12,Zona Pisana,Vecchiano ,,,,,
+2020-04-12,Alta  Val di Cecina Val d'Era,Bientina,,,,,
+2020-04-12,Alta  Val di Cecina Val d'Era,Capannoli,,,,,
+2020-04-12,Alta  Val di Cecina Val d'Era,Peccioli,,,,,
+2020-04-12,Alta  Val di Cecina Val d'Era,Pomarance ,,,,,
+2020-04-12,Alta  Val di Cecina Val d'Era,Ponsacco ,,,,,
+2020-04-12,Alta  Val di Cecina Val d'Era,Pontedera,,,,,
+2020-04-12,Alta  Val di Cecina Val d'Era,Palaia,2,,,,
+2020-04-12,Zona Livornese,Collesalvetti ,,,,,
+2020-04-12,Zona Livornese,Livorno ,,,,,
+2020-04-12,Elba,Rio Elba,,,,,
+2020-04-12,Bassa Val di Cecina Val di Cornia,Cecina ,,,,,
+2020-04-12,Bassa Val di Cecina Val di Cornia,Piombino,,,,,
+2020-04-12,Bassa Val di Cecina Val di Cornia,Rosignano,1,,,,
+2020-04-12,Versilia,Camaiore,,,,,
+2020-04-12,Versilia,Pietrasanta,,,,,
+2020-04-12,Versilia,Stazzema ,,,,,
+2020-04-12,Versilia,Seravezza,,,,,
+2020-04-12,Versilia,Viareggio ,1,,,,
+2020-04-12,Toscana,Toscana,,9,20,,
+2020-04-13,Apuane,Carrara,,,,,
+2020-04-13,Apuane,Massa,1,,,,
+2020-04-13,Lunigiana,Fivizzano,1,,,,
+2020-04-13,Lunigiana,Pontremoli,2,,,,
+2020-04-13,Lunigiana,Aulla,1,,,,
+2020-04-13,Lunigiana,Licciana Nardi,1,,,,
+2020-04-13,Piana di Lucca,Capannori,1,,,,
+2020-04-13,Piana di Lucca,Lucca,,,,,
+2020-04-13,Piana di Lucca,Porcari,,,,,
+2020-04-13,Piana di Lucca,Villa Basilica,1,,,,
+2020-04-13,Valle del Serchio,Barga,,,,,
+2020-04-13,Valle del Serchio,Pescaglia,,,,,
+2020-04-13,Valle del Serchio,Castelnuovo Garfagnana,,,,,
+2020-04-13,Valle del Serchio,Molazzana ,1,,,,
+2020-04-13,Zona Pisana,Calci ,,,,,
+2020-04-13,Zona Pisana,Cascina,,,,,
+2020-04-13,Zona Pisana,Crespina Lorenzana,,,,,
+2020-04-13,Zona Pisana,Pisa,1,,,,
+2020-04-13,Zona Pisana,San Giuliano ,,,,,
+2020-04-13,Zona Pisana,Vecchiano ,,,,,
+2020-04-13,Alta  Val di Cecina Val d'Era,Bientina,,,,,
+2020-04-13,Alta  Val di Cecina Val d'Era,Palaia,,,,,
+2020-04-13,Alta  Val di Cecina Val d'Era,Pomarance ,,,,,
+2020-04-13,Alta  Val di Cecina Val d'Era,Volterra,,,,,
+2020-04-13,Alta  Val di Cecina Val d'Era,Ponsacco ,1,,,,
+2020-04-13,Zona Livornese,Livorno ,,,,,
+2020-04-13,Bassa Val di Cecina Val di Cornia,Campiglia Marittima ,,,,,
+2020-04-13,Bassa Val di Cecina Val di Cornia,Piombino,1,,,,
+2020-04-13,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,,,,,
+2020-04-13,Versilia,Camaiore,,,,,
+2020-04-13,Versilia,Forte dei Marmi ,,,,,
+2020-04-13,Versilia,Massarosa,,,,,
+2020-04-13,Versilia,Pietrasanta,,,,,
+2020-04-13,Versilia,Seravezza,,,,,
+2020-04-13,Versilia,Viareggio ,,,,,
+2020-04-13,Toscana,Toscana,,0,0,,
+2020-04-14,Apuane,Carrara,,,,,
+2020-04-14,Apuane,Massa,,,,,
+2020-04-14,Apuane,Montignoso,,,,,
+2020-04-14,Lunigiana,Fosdinovo,1,,,,
+2020-04-14,Lunigiana,Fivizzano,1,,,,
+2020-04-14,Piana di Lucca,Lucca,1,,,,
+2020-04-14,Valle del Serchio,Pescaglia,,,,,
+2020-04-14,Zona Pisana,Cascina ,,,,,
+2020-04-14,Zona Pisana,Pisa,,,,,
+2020-04-14,Zona Pisana,San Giuliano ,,,,,
+2020-04-14,Zona Pisana,Vecchiano ,,,,,
+2020-04-14,Zona Livornese,Livorno ,,,,,
+2020-04-14,Zona Livornese,Collesalvetti ,,,,,
+2020-04-14,Elba,Capoliveri,,,,,
+2020-04-14,Versilia,Camaiore,,,,,
+2020-04-14,Versilia,Massarosa,,,,,
+2020-04-14,Versilia,Stazzema ,,,,,
+2020-04-14,Versilia,Viareggio ,,,,,
+2020-04-14,Versilia,Pietrasanta,2,,,,
+2020-04-14,Toscana,Toscana,,8,3,,
