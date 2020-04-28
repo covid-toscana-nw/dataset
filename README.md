@@ -1,6 +1,8 @@
 # Dati bollettini USL Toscana Nord Ovest
 
-**Il presente è un repository non ufficile, per uso strettamente sperimentale. Gli autori non assumono responsabilita' sulla correttezza e la completezza dei dati e lo stato di aggiornamento di essi.**
+**Il presente è un repository non ufficiale, per uso strettamente sperimentale. Gli autori non assumono responsabilita' sulla correttezza e la completezza dei dati e lo stato di aggiornamento di essi.**
+
+Dati ufficiali disponibili a https://www.uslnordovest.toscana.it/index.php/notizie. 
 
 **Use at your own risk**
 
