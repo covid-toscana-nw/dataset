@@ -22,7 +22,7 @@
 2020-03-07,Piana di Lucca,Capannori,6
 2020-03-07,Piana di Lucca,Porcari,1
 2020-03-07,Zona Pisana,Pisa,2
-2020-03-07,Alta val di Cecina Val d'Era,Volterra,1
+2020-03-07,Alta Val di Cecina Val d'Era,Volterra,1
 2020-03-07,Versilia,Seravezza,1
 2020-03-08,Lunigiana,Licciana Nardi,1
 2020-03-08,Lunigiana,Mulazzo,1
@@ -32,8 +32,8 @@
 2020-03-08,Piana di Lucca,Porcari,1
 2020-03-08,Piana di Lucca,Lucca,2
 2020-03-08,Zona Pisana,Pisa,2
-2020-03-08,Alta val di Cecina Val d'Era,Calcinaia,1
-2020-03-08,Alta val di Cecina Val d'Era,Santa Maria a Monte,1
+2020-03-08,Alta Val di Cecina Val d'Era,Calcinaia,1
+2020-03-08,Alta Val di Cecina Val d'Era,Santa Maria a Monte,1
 2020-03-08,Zona Livornese,Livorno,2
 2020-03-08,Zona Livornese,Piombino,1
 2020-03-08,Versilia,Seravezza,2
@@ -52,8 +52,8 @@
 2020-03-10,Piana di Lucca,Capannori,2
 2020-03-10,Valle del Serchio,Castelnuovo Garfagnana,1
 2020-03-10,Zona Pisana,Pisa,5
-2020-03-10,Alta val di Cecina Val d'Era,Pomarance,2
-2020-03-10,Alta val di Cecina Val d'Era,Pontedera,2
+2020-03-10,Alta Val di Cecina Val d'Era,Pomarance,2
+2020-03-10,Alta Val di Cecina Val d'Era,Pontedera,2
 2020-03-10,Zona Livornese,Livorno,3
 2020-03-10,Versilia,Viareggio,1
 2020-03-11,Apuane,Massa,1
@@ -88,7 +88,7 @@
 2020-03-13,Piana di Lucca,Lucca,5
 2020-03-13,Zona Pisana,Cascina,1
 2020-03-13,Zona Pisana,Pisa,1
-2020-03-13,Alta val di Cecina Val d'Era,Santa Maria a Monte,1
+2020-03-13,Alta Val di Cecina Val d'Era,Santa Maria a Monte,1
 2020-03-13,Zona Livornese,Livorno,5
 2020-03-13,Zona Livornese,Piombino,3
 2020-03-13,Versilia,Camaiore,1
@@ -140,9 +140,9 @@
 2020-03-15,Zona Livornese,Collesalvetti,1
 2020-03-15,Zona Livornese,Livorno,4
 2020-03-15,Zona Livornese,Piombino,5
-2020-03-15,Bassa val di Cecina Val di Cornia,Campiglia Marittima,2
-2020-03-15,Bassa val di Cecina Val di Cornia,Cecina,1
-2020-03-15,Bassa val di Cecina Val di Cornia,Rosignano Marittimo,1
+2020-03-15,Bassa Val di Cecina Val di Cornia,Campiglia Marittima,2
+2020-03-15,Bassa Val di Cecina Val di Cornia,Cecina,1
+2020-03-15,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,1
 2020-03-15,Versilia,Camaiore,3
 2020-03-15,Versilia,Forte dei Marmi,3
 2020-03-15,Versilia,Massarosa,1
@@ -157,40 +157,40 @@
 2020-03-17,Zona Pisana,Zona Pisana,11
 2020-03-17,Alta Val di Cecina Val d'Era,Alta Val di Cecina Val d'Era,6
 2020-03-17,Zona Livornese,Zona Livornese,1
-2020-03-17,Bassa val di Cecina Val di Cornia,Bassa val di Cecina Val di Cornia,4
+2020-03-17,Bassa Val di Cecina Val di Cornia,Bassa Val di Cecina Val di Cornia,4
 2020-03-17,Versilia,Versilia,15
 2020-03-18,Apuane,Apuane,10
 2020-03-18,Lunigiana,Lunigiana,17
 2020-03-18,Zona Pisana,Zona Pisana,5
 2020-03-18,Apuane,Apuane,10
-2020-03-18,Alta val di Cecina Val d'Era,Alta val di Cecina Val d'Era,13
+2020-03-18,Alta Val di Cecina Val d'Era,Alta Val di Cecina Val d'Era,13
 2020-03-18,Zona Livornese,Zona Livornese,6
-2020-03-18,Bassa val di Cecina Val di Cornia,Bassa val di Cecina Val di Cornia,6
+2020-03-18,Bassa Val di Cecina Val di Cornia,Bassa Val di Cecina Val di Cornia,6
 2020-03-18,Versilia,Versilia,4
 2020-03-19,Apuane,Apuane,16
 2020-03-19,Lunigiana,Lunigiana,8
 2020-03-19,Piana di Lucca,Piana di Lucca,6
 2020-03-19,Valle del Serchio,Valle del Serchio,12
 2020-03-19,Zona Pisana,Zona Pisana,12
-2020-03-19,Alta Val di Cecina Val d'era,Alta Val di Cecina Val d'era,8
+2020-03-19,Alta Val di Cecina Val d'Era,Pontedera,8
 2020-03-19,Versilia,Versilia,8
 2020-03-20,Apuane,Apuane,7
 2020-03-20,Lunigiana,Lunigiana,21
 2020-03-20,Piana di Lucca,Piana di Lucca,11
 2020-03-20,Valle del Serchio,Valle del Serchio,2
 2020-03-20,Zona Pisana,Zona Pisana,13
-2020-03-20,Alta val di Cecina Val d'Era,Alta val di Cecina Val d'Era,19
+2020-03-20,Alta Val di Cecina Val d'Era,Alta Val di Cecina Val d'Era,19
 2020-03-20,Zona Livornese,Zona Livornese,11
-2020-03-20,Bassa val di Cecina Val di Cornia,Bassa val di Cecina Val di Cornia,4
+2020-03-20,Bassa Val di Cecina Val di Cornia,Bassa Val di Cecina Val di Cornia,4
 2020-03-20,Versilia,Versilia,1
 2020-03-21,Apuane,Apuane,18
 2020-03-21,Lunigiana,Lunigiana,12
 2020-03-21,Piana di Lucca,Piana di Lucca,26
 2020-03-21,Valle del Serchio,Valle del Serchio,2
 2020-03-21,Zona Pisana,Zona Pisana,20
-2020-03-21,Alta val di Cecina Val d'Era,Alta val di Cecina Val d'Era,7
+2020-03-21,Alta Val di Cecina Val d'Era,Alta Val di Cecina Val d'Era,7
 2020-03-21,Zona Livornese,Zona Livornese,9
-2020-03-21,Bassa val di Cecina Val di Cornia,Bassa val di Cecina Val di Cornia,8
+2020-03-21,Bassa Val di Cecina Val di Cornia,Bassa Val di Cecina Val di Cornia,8
 2020-03-21,Versilia,Versilia,18
 2020-03-22,Apuane,Carrara,4
 2020-03-22,Apuane,Massa,9
@@ -219,17 +219,17 @@
 2020-03-22,Zona Pisana,San Giuliano Terme,1
 2020-03-22,Zona Pisana,Vecchiano,2
 2020-03-22,Zona Pisana,Cascina,3
-2020-03-22,Alta val di Cecina Val d'Era,Bientina,1
-2020-03-22,Alta val di Cecina Val d'Era,Castelnuovo val di Cecina,1
-2020-03-22,Alta val di Cecina Val d'Era,Palaia,1
-2020-03-22,Alta val di Cecina Val d'Era,Pomarance,1
-2020-03-22,Alta val di Cecina Val d'Era,Ponsacco,5
-2020-03-22,Alta val di Cecina Val d'Era,Terricciola,1
-2020-03-22,Alta val di Cecina Val d'Era,Volterra,2
+2020-03-22,Alta Val di Cecina Val d'Era,Bientina,1
+2020-03-22,Alta Val di Cecina Val d'Era,Castelnuovo val di Cecina,1
+2020-03-22,Alta Val di Cecina Val d'Era,Palaia,1
+2020-03-22,Alta Val di Cecina Val d'Era,Pomarance,1
+2020-03-22,Alta Val di Cecina Val d'Era,Ponsacco,5
+2020-03-22,Alta Val di Cecina Val d'Era,Terricciola,1
+2020-03-22,Alta Val di Cecina Val d'Era,Volterra,2
 2020-03-22,Zona Livornese,Livorno,6
-2020-03-22,Bassa val di Cecina Val di Cornia,Cecina,2
-2020-03-22,Bassa val di Cecina Val di Cornia,Piombino,2
-2020-03-22,Bassa val di Cecina Val di Cornia,Rosignano Marittimo,3
+2020-03-22,Bassa Val di Cecina Val di Cornia,Cecina,2
+2020-03-22,Bassa Val di Cecina Val di Cornia,Piombino,2
+2020-03-22,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,3
 2020-03-22,Elba,Rio nell'Elba,1
 2020-03-22,Versilia,Camaiore,2
 2020-03-22,Versilia,Forte dei Marmi,1
@@ -250,19 +250,19 @@
 2020-03-23,Zona Pisana,Cascina,2
 2020-03-23,Zona Pisana,Pisa,5
 2020-03-23,Zona Pisana,Vecchiano,1
-2020-03-23,Alta val di Cecina Val d'Era,Buti,4
-2020-03-23,Alta val di Cecina Val d'Era,Calcinaia,3
-2020-03-23,Alta val di Cecina Val d'Era,Capannoli,1
-2020-03-23,Alta val di Cecina Val d'Era,Casciana Terme Lari,2
-2020-03-23,Alta val di Cecina Val d'Era,Peccioli,1
-2020-03-23,Alta val di Cecina Val d'Era,Ponsacco,2
-2020-03-23,Alta val di Cecina Val d'Era,Pontedera,3
-2020-03-23,Alta val di Cecina Val d'Era,Terricciola,2
-2020-03-23,Alta val di Cecina Val d'Era,Volterra,2
+2020-03-23,Alta Val di Cecina Val d'Era,Buti,4
+2020-03-23,Alta Val di Cecina Val d'Era,Calcinaia,3
+2020-03-23,Alta Val di Cecina Val d'Era,Capannoli,1
+2020-03-23,Alta Val di Cecina Val d'Era,Casciana Terme Lari,2
+2020-03-23,Alta Val di Cecina Val d'Era,Peccioli,1
+2020-03-23,Alta Val di Cecina Val d'Era,Ponsacco,2
+2020-03-23,Alta Val di Cecina Val d'Era,Pontedera,3
+2020-03-23,Alta Val di Cecina Val d'Era,Terricciola,2
+2020-03-23,Alta Val di Cecina Val d'Era,Volterra,2
 2020-03-23,Zona Livornese,Livorno,6
-2020-03-23,Bassa val di Cecina Val di Cornia,Bibbona,1
-2020-03-23,Bassa val di Cecina Val di Cornia,Cecina,1
-2020-03-23,Bassa val di Cecina Val di Cornia,Piombino,1
+2020-03-23,Bassa Val di Cecina Val di Cornia,Bibbona,1
+2020-03-23,Bassa Val di Cecina Val di Cornia,Cecina,1
+2020-03-23,Bassa Val di Cecina Val di Cornia,Piombino,1
 2020-03-23,Versilia,Camaiore,1
 2020-03-23,Versilia,Forte dei Marmi,3
 2020-03-23,Versilia,Pietrasanta,1
@@ -285,13 +285,13 @@
 2020-03-24,Zona Pisana,Cascina,2
 2020-03-24,Zona Pisana,Pisa,3
 2020-03-24,Zona Pisana,San Giuliano Terme,5
-2020-03-24,Alta val di Cecina Val d'Era,Bientina,1
-2020-03-24,Alta val di Cecina Val d'Era,Pontedera,1
-2020-03-24,Alta val di Cecina Val d'Era,Santa Maria a Monte,1
+2020-03-24,Alta Val di Cecina Val d'Era,Bientina,1
+2020-03-24,Alta Val di Cecina Val d'Era,Pontedera,1
+2020-03-24,Alta Val di Cecina Val d'Era,Santa Maria a Monte,1
 2020-03-24,Zona Livornese,Livorno,5
-2020-03-24,Bassa val di Cecina Val di Cornia,Castagneto Carducci,1
-2020-03-24,Bassa val di Cecina Val di Cornia,Cecina,4
-2020-03-24,Bassa val di Cecina Val di Cornia,Rosignano Marittimo,5
+2020-03-24,Bassa Val di Cecina Val di Cornia,Castagneto Carducci,1
+2020-03-24,Bassa Val di Cecina Val di Cornia,Cecina,4
+2020-03-24,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,5
 2020-03-24,Versilia,Camaiore,1
 2020-03-24,Versilia,Forte dei Marmi,1
 2020-03-24,Versilia,Massarosa,2
@@ -319,19 +319,19 @@
 2020-03-25,Zona Pisana,Pisa,10
 2020-03-25,Zona Pisana,San Giuliano Terme,2
 2020-03-25,Zona Pisana,Vecchiano,3
-2020-03-25,Alta val di Cecina Val d'Era,Calcinaia,2
-2020-03-25,Alta val di Cecina Val d'Era,Capannoli,3
-2020-03-25,Alta val di Cecina Val d'Era,Palia,1
-2020-03-25,Alta val di Cecina Val d'Era,Peccioli,1
-2020-03-25,Alta val di Cecina Val d'Era,Santa Maria a Monte,2
-2020-03-25,Alta val di Cecina Val d'Era,Volterra,2
-2020-03-25,Alta val di Cecina Val d'Era,Calcinaia,2
+2020-03-25,Alta Val di Cecina Val d'Era,Calcinaia,2
+2020-03-25,Alta Val di Cecina Val d'Era,Capannoli,3
+2020-03-25,Alta Val di Cecina Val d'Era,Palia,1
+2020-03-25,Alta Val di Cecina Val d'Era,Peccioli,1
+2020-03-25,Alta Val di Cecina Val d'Era,Santa Maria a Monte,2
+2020-03-25,Alta Val di Cecina Val d'Era,Volterra,2
+2020-03-25,Alta Val di Cecina Val d'Era,Calcinaia,2
 2020-03-25,Zona Livornese,Collesalvetti,2
 2020-03-25,Zona Livornese,Livorno,3
 2020-03-25,Elba,Portoferraio,1
-2020-03-25,Bassa val di Cecina Val di Cornia,Cecina,1
-2020-03-25,Bassa val di Cecina Val di Cornia,Riparbella,1
-2020-03-25,Bassa val di Cecina Val di Cornia,Rosignano,1
+2020-03-25,Bassa Val di Cecina Val di Cornia,Cecina,1
+2020-03-25,Bassa Val di Cecina Val di Cornia,Riparbella,1
+2020-03-25,Bassa Val di Cecina Val di Cornia,Rosignano,1
 2020-03-25,Versilia,Camaiore,3
 2020-03-25,Versilia,Forte dei Marmi,7
 2020-03-25,Versilia,Massarosa,2
@@ -364,19 +364,19 @@
 2020-03-26,Zona Pisana,Pisa,2
 2020-03-26,Zona Pisana,San Giuliano Terme,3
 2020-03-26,Zona Pisana,Vecchiano,4
-2020-03-26,Alta val di Cecina,Capannoli,4
-2020-03-26,Alta val di Cecina,Casciana Terme Lari,1
-2020-03-26,Alta val di Cecina,Pomarance,1
-2020-03-26,Alta val di Cecina,Ponsacco,1
-2020-03-26,Alta val di Cecina,Pontedera,1
-2020-03-26,Alta val di Cecina,Volterra,1
+2020-03-26,Alta Val di Cecina Val d'Era,Capannoli,4
+2020-03-26,Alta Val di Cecina Val d'Era,Casciana Terme Lari,1
+2020-03-26,Alta Val di Cecina Val d'Era,Pomarance,1
+2020-03-26,Alta Val di Cecina Val d'Era,Ponsacco,1
+2020-03-26,Alta Val di Cecina Val d'Era,Pontedera,1
+2020-03-26,Alta Val di Cecina Val d'Era,Volterra,1
 2020-03-26,Zona Livornese,Collesalvetti,3
 2020-03-26,Zona Livornese,Livorno,10
 2020-03-26,Elba,Rio nell'Elba,2
-2020-03-26,Bassa val di Cecina Val di Cornia,Cecina,3
-2020-03-26,Bassa val di Cecina Val di Cornia,Piombino,4
-2020-03-26,Bassa val di Cecina Val di Cornia,Riparbella,1
-2020-03-26,Bassa val di Cecina Val di Cornia,Rosignano Marittimo,2
+2020-03-26,Bassa Val di Cecina Val di Cornia,Cecina,3
+2020-03-26,Bassa Val di Cecina Val di Cornia,Piombino,4
+2020-03-26,Bassa Val di Cecina Val di Cornia,Riparbella,1
+2020-03-26,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,2
 2020-03-26,Versilia,Camaiore,4
 2020-03-26,Versilia,Forte dei Marmi,2
 2020-03-26,Versilia,Massarosa,4
@@ -404,18 +404,18 @@
 2020-03-27,Zona Pisana,Cascina,2
 2020-03-27,Zona Pisana,Vicopisano,1
 2020-03-27,Zona Pisana,Vecchiano,1
-2020-03-27,Alta val di Cecina Val d'Era,Bientina,1
-2020-03-27,Alta val di Cecina Val d'Era,Calcinaia,4
-2020-03-27,Alta val di Cecina Val d'Era,Capannoli,1
-2020-03-27,Alta val di Cecina Val d'Era,Palaia,1
-2020-03-27,Alta val di Cecina Val d'Era,Peccioli,1
-2020-03-27,Alta val di Cecina Val d'Era,Pomarance,1
-2020-03-27,Alta val di Cecina Val d'Era,Santa Maria a Monte,1
-2020-03-27,Alta val di Cecina Val d'Era,Volterra,3
+2020-03-27,Alta Val di Cecina Val d'Era,Bientina,1
+2020-03-27,Alta Val di Cecina Val d'Era,Calcinaia,4
+2020-03-27,Alta Val di Cecina Val d'Era,Capannoli,1
+2020-03-27,Alta Val di Cecina Val d'Era,Palaia,1
+2020-03-27,Alta Val di Cecina Val d'Era,Peccioli,1
+2020-03-27,Alta Val di Cecina Val d'Era,Pomarance,1
+2020-03-27,Alta Val di Cecina Val d'Era,Santa Maria a Monte,1
+2020-03-27,Alta Val di Cecina Val d'Era,Volterra,3
 2020-03-27,Zona Livornese,Collesalvetti,1
 2020-03-27,Zona Livornese,Livorno,11
 2020-03-27,Elba,Rio nell'Elba,2
-2020-03-27,Bassa val di Cecina Val di Cornia,Rosignano Marittimo,2
+2020-03-27,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,2
 2020-03-27,Versilia,Camaiore,4
 2020-03-27,Versilia,Massarosa,3
 2020-03-27,Versilia,Pietrasanta,2
@@ -451,20 +451,20 @@
 2020-03-28,Zona Pisana,Pisa,3
 2020-03-28,Zona Pisana,San Giuliano Terme,2
 2020-03-28,Zona Pisana,Vicopisano,1
-2020-03-28,Alta val di Cecina Val d'Era,Bientina,1
-2020-03-28,Alta val di Cecina Val d'Era,Capannoli,1
-2020-03-28,Alta val di Cecina Val d'Era,Casciana Terme Lari,1
-2020-03-28,Alta val di Cecina Val d'Era,Peccioli,1
-2020-03-28,Alta val di Cecina Val d'Era,Pontedera,2
-2020-03-28,Alta val di Cecina Val d'Era,Santa Maria a Monte,3
-2020-03-28,Alta val di Cecina Val d'Era,Terricciola,3
-2020-03-28,Alta val di Cecina Val d'Era,Volterra,2
+2020-03-28,Alta Val di Cecina Val d'Era,Bientina,1
+2020-03-28,Alta Val di Cecina Val d'Era,Capannoli,1
+2020-03-28,Alta Val di Cecina Val d'Era,Casciana Terme Lari,1
+2020-03-28,Alta Val di Cecina Val d'Era,Peccioli,1
+2020-03-28,Alta Val di Cecina Val d'Era,Pontedera,2
+2020-03-28,Alta Val di Cecina Val d'Era,Santa Maria a Monte,3
+2020-03-28,Alta Val di Cecina Val d'Era,Terricciola,3
+2020-03-28,Alta Val di Cecina Val d'Era,Volterra,2
 2020-03-28,Zona Livornese,Livorno,11
 2020-03-28,Elba,Rio nell'Elba,1
-2020-03-28,Bassa val di Cecina Val di Cornia,Cecina,1
-2020-03-28,Bassa val di Cecina Val di Cornia,Piombino,2
-2020-03-28,Bassa val di Cecina Val di Cornia,Rosignano Marittimo,1
-2020-03-28,Bassa val di Cecina Val di Cornia,San Vincenzo,1
+2020-03-28,Bassa Val di Cecina Val di Cornia,Cecina,1
+2020-03-28,Bassa Val di Cecina Val di Cornia,Piombino,2
+2020-03-28,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,1
+2020-03-28,Bassa Val di Cecina Val di Cornia,San Vincenzo,1
 2020-03-28,Versilia,Camaiore,2
 2020-03-28,Versilia,Massarosa,2
 2020-03-28,Versilia,Pietrasanta,1
@@ -486,19 +486,19 @@
 2020-03-29,Zona Pisana,San Giuliano Terme,1
 2020-03-29,Zona Pisana,Vecchiano,4
 2020-03-29,Zona Pisana,Vicopisano,1
-2020-03-29,Alta val di Cecina Val d'Era,Calcinaia,1
-2020-03-29,Alta val di Cecina Val d'Era,Capannoli,1
-2020-03-29,Alta val di Cecina Val d'Era,Palaia,1
-2020-03-29,Alta val di Cecina Val d'Era,Pomarance,3
-2020-03-29,Alta val di Cecina Val d'Era,Ponsacco,2
-2020-03-29,Alta val di Cecina Val d'Era,Terricciola,3
-2020-03-29,Alta val di Cecina Val d'Era,Volterra,3
+2020-03-29,Alta Val di Cecina Val d'Era,Calcinaia,1
+2020-03-29,Alta Val di Cecina Val d'Era,Capannoli,1
+2020-03-29,Alta Val di Cecina Val d'Era,Palaia,1
+2020-03-29,Alta Val di Cecina Val d'Era,Pomarance,3
+2020-03-29,Alta Val di Cecina Val d'Era,Ponsacco,2
+2020-03-29,Alta Val di Cecina Val d'Era,Terricciola,3
+2020-03-29,Alta Val di Cecina Val d'Era,Volterra,3
 2020-03-29,Zona Livornese,Livorno,5
-2020-03-29,Bassa val di Cecina Val di Cornia,Campliglia Marittima,1
-2020-03-29,Bassa val di Cecina Val di Cornia,Cecina,1
-2020-03-29,Bassa val di Cecina Val di Cornia,Guardistallo,1
-2020-03-29,Bassa val di Cecina Val di Cornia,Piombino,2
-2020-03-29,Bassa val di Cecina Val di Cornia,Rosignano Marittimo,2
+2020-03-29,Bassa Val di Cecina Val di Cornia,Campliglia Marittima,1
+2020-03-29,Bassa Val di Cecina Val di Cornia,Cecina,1
+2020-03-29,Bassa Val di Cecina Val di Cornia,Guardistallo,1
+2020-03-29,Bassa Val di Cecina Val di Cornia,Piombino,2
+2020-03-29,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,2
 2020-03-29,Versilia,Camaiore,4
 2020-03-29,Versilia,Forte dei Marmi,1
 2020-03-29,Versilia,Massarosa,4
@@ -527,17 +527,17 @@
 2020-03-30,Zona Pisana,San Giuliano Terme,3
 2020-03-30,Zona Pisana,Vecchiano,1
 2020-03-30,Zona Pisana,Vicopisano,1
-2020-03-30,Alta val di Cecina Val d'Era,Bientina,1
-2020-03-30,Alta val di Cecina Val d'Era,Calcinaia,1
-2020-03-30,Alta val di Cecina Val d'Era,Casciana Terme Lari,1
-2020-03-30,Alta val di Cecina Val d'Era,Ponsacco,1
-2020-03-30,Alta val di Cecina Val d'Era,Santa Maria a Monte,1
+2020-03-30,Alta Val di Cecina Val d'Era,Bientina,1
+2020-03-30,Alta Val di Cecina Val d'Era,Calcinaia,1
+2020-03-30,Alta Val di Cecina Val d'Era,Casciana Terme Lari,1
+2020-03-30,Alta Val di Cecina Val d'Era,Ponsacco,1
+2020-03-30,Alta Val di Cecina Val d'Era,Santa Maria a Monte,1
 2020-03-30,Zona Livornese,Collesalvetti,1
 2020-03-30,Zona Livornese,Livorno,24
 2020-03-30,Elba,Rio nell'Elba,1
-2020-03-30,Bassa val di Cecina Val di Cornia,Cecina,2
-2020-03-30,Bassa val di Cecina Val di Cornia,Piombino,2
-2020-03-30,Bassa val di Cecina Val di Cornia,Rosignano Marittimo,1
+2020-03-30,Bassa Val di Cecina Val di Cornia,Cecina,2
+2020-03-30,Bassa Val di Cecina Val di Cornia,Piombino,2
+2020-03-30,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,1
 2020-03-30,Versilia,Camaiore,2
 2020-03-30,Versilia,Forte dei Marmi,1
 2020-03-30,Versilia,Massarosa,1
@@ -564,15 +564,15 @@
 2020-04-02,Zona Pisana,Pisa,3
 2020-04-02,Zona Pisana,San Giuliano Terme,1
 2020-04-02,Zona Pisana,Vecchiano,1
-2020-04-02,Alta val di Cecina Val d'Era,Capannoli,5
-2020-04-02,Alta val di Cecina Val d'Era,Palaia,2
-2020-04-02,Alta val di Cecina Val d'Era,Peccioli,1
-2020-04-02,Alta val di Cecina Val d'Era,Pontedera,1
-2020-04-02,Alta val di Cecina Val d'Era,Santa Maria a Monte,1
+2020-04-02,Alta Val di Cecina Val d'Era,Capannoli,5
+2020-04-02,Alta Val di Cecina Val d'Era,Palaia,2
+2020-04-02,Alta Val di Cecina Val d'Era,Peccioli,1
+2020-04-02,Alta Val di Cecina Val d'Era,Pontedera,1
+2020-04-02,Alta Val di Cecina Val d'Era,Santa Maria a Monte,1
 2020-04-02,Zona Livornese,Collesalvetti,1
 2020-04-02,Zona Livornese,Livorno,1
-2020-04-02,Bassa val di Cecina Val di Cornia,Guardistallo,1
-2020-04-02,Bassa val di Cecina Val di Cornia,Rosignano Marittimo,1
+2020-04-02,Bassa Val di Cecina Val di Cornia,Guardistallo,1
+2020-04-02,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,1
 2020-04-02,Versilia,Camaiore,1
 2020-04-02,Versilia,Pietrasanta,2
 2020-04-02,Versilia,Stazzema,1
@@ -587,7 +587,7 @@
 2020-04-03,Piana di Lucca,Villa Basilica,1
 2020-04-03,Valle del Serchio,Bagni di Lucca,1
 2020-04-03,Zona Pisana,San Giuliano Terme,1
-2020-04-03,Alta val di Cecina Val d'Era,Volterra,2
+2020-04-03,Alta Val di Cecina Val d'Era,Volterra,2
 2020-04-03,Zona Livornese,Livorno,6
 2020-04-03,Versilia,Camaiore,3
 2020-04-03,Versilia,Forte dei Marmi,1
@@ -608,16 +608,16 @@
 2020-04-04,Zona Pisana,Pisa,3
 2020-04-04,Zona Pisana,San Giuliano Terme,1
 2020-04-04,Zona Livornese,Livorno,4
-2020-04-04,Bassa val di Cecina Val di Cornia,Piombino,1
+2020-04-04,Bassa Val di Cecina Val di Cornia,Piombino,1
 2020-04-04,Versilia,Camaiore,1
 2020-04-04,Versilia,Pietrasanta,2
 2020-04-04,Versilia,Seravezza,1
 2020-04-04,Versilia,Viareggio,1
-2020-04-05,Luinigiana,Aulla,1
-2020-04-05,Luinigiana,Fivizzano,3
-2020-04-05,Luinigiana,Fosdinovo,2
-2020-04-05,Luinigiana,Mulazzo,1
-2020-04-05,Luinigiana,Pontremoli,2
+2020-04-05,Lunigiana,Aulla,1
+2020-04-05,Lunigiana,Fivizzano,3
+2020-04-05,Lunigiana,Fosdinovo,2
+2020-04-05,Lunigiana,Mulazzo,1
+2020-04-05,Lunigiana,Pontremoli,2
 2020-04-05,Piana di Lucca,Capannori,2
 2020-04-05,Valle del Serchio,Barga,2
 2020-04-05,Zona Pisana,Cascina,2
@@ -625,9 +625,9 @@
 2020-04-05,Zona Pisana,Pisa,6
 2020-04-05,Zona Pisana,San Giuliano Terme,2
 2020-04-05,Zona Pisana,Vecchiano,2
-2020-04-05,Alta val di Cecina Val d'Era,Capannoli,1
-2020-04-05,Alta val di Cecina Val d'Era,Terricciola,1
-2020-04-05,Alta val di Cecina Val d'Era,Volterra,2
+2020-04-05,Alta Val di Cecina Val d'Era,Capannoli,1
+2020-04-05,Alta Val di Cecina Val d'Era,Terricciola,1
+2020-04-05,Alta Val di Cecina Val d'Era,Volterra,2
 2020-04-05,Zona Livornese,Livorno,4
 2020-04-05,Versilia,Camaiore,1
 2020-04-05,Versilia,Forte dei Marmi,2
@@ -735,7 +735,7 @@
 2020-04-09,Valle del Serchio,Fabbriche di Vergemoli,1
 2020-04-09,Zona Pisana,Cascina,1
 2020-04-09,Zona Pisana,Pisa,1
-2020-04-09,Alta  Val di Cecina Val d'Era,Volterra,1
+2020-04-09,Alta Val di Cecina Val d'Era,Volterra,1
 2020-04-09,Zona Livornese,Livorno,3
 2020-04-09,Elba,Portoferraio,1
 2020-04-09,Versilia,Massarosa,1
@@ -750,7 +750,7 @@
 2020-04-10,Valle del Serchio,Barga,1
 2020-04-10,Zona Pisana,Cascina,2
 2020-04-10,Zona Pisana,Pisa,4
-2020-04-10,Alta val di Cecina Val d'Era,Capannoli,1
+2020-04-10,Alta Val di Cecina Val d'Era,Capannoli,1
 2020-04-10,Zona Livornese,Livorno,6
 2020-04-10,Versilia,Pietrasanta,2
 2020-04-10,Versilia,Stazzema,3
@@ -769,19 +769,19 @@
 2020-04-11,Zona Pisana,Cascina,3
 2020-04-11,Zona Pisana,Pisa,5
 2020-04-11,Zona Pisana,San Giuliano Terme,3
-2020-04-11,Alta val di Cecina Val d'Era,Calcinaia,1
-2020-04-11,Alta val di Cecina Val d'Era,Casciana Terme Lari,2
-2020-04-11,Alta val di Cecina Val d'Era,Palaia,5
-2020-04-11,Alta val di Cecina Val d'Era,Peccioli,1
-2020-04-11,Alta val di Cecina Val d'Era,Ponsacco,2
-2020-04-11,Alta val di Cecina Val d'Era,Pontedera,2
-2020-04-11,Alta val di Cecina Val d'Era,Volterra,1
+2020-04-11,Alta Val di Cecina Val d'Era,Calcinaia,1
+2020-04-11,Alta Val di Cecina Val d'Era,Casciana Terme Lari,2
+2020-04-11,Alta Val di Cecina Val d'Era,Palaia,5
+2020-04-11,Alta Val di Cecina Val d'Era,Peccioli,1
+2020-04-11,Alta Val di Cecina Val d'Era,Ponsacco,2
+2020-04-11,Alta Val di Cecina Val d'Era,Pontedera,2
+2020-04-11,Alta Val di Cecina Val d'Era,Volterra,1
 2020-04-11,Zona Livornese,Livorno,12
 2020-04-11,Elba,Portoferraio,1
-2020-04-11,Bassa val di Cecina Val di Cornia,Bibbona,1
-2020-04-11,Bassa val di Cecina Val di Cornia,Castagneto Carducci,1
-2020-04-11,Bassa val di Cecina Val di Cornia,Castellina Marittima,1
-2020-04-11,Bassa val di Cecina Val di Cornia,Cecina,3
+2020-04-11,Bassa Val di Cecina Val di Cornia,Bibbona,1
+2020-04-11,Bassa Val di Cecina Val di Cornia,Castagneto Carducci,1
+2020-04-11,Bassa Val di Cecina Val di Cornia,Castellina Marittima,1
+2020-04-11,Bassa Val di Cecina Val di Cornia,Cecina,3
 2020-04-11,Versilia,Camaiore,1
 2020-04-11,Versilia,Forte dei Marmi,1
 2020-04-11,Versilia,Massarosa,1
@@ -802,18 +802,18 @@
 2020-04-12,Zona Pisana,Pisa,4
 2020-04-12,Zona Pisana,San Giuliano Terme,4
 2020-04-12,Zona Pisana,Vecchiano,1
-2020-04-12,Alta val di Cecina Val d'Era,Bientina,1
-2020-04-12,Alta val di Cecina Val d'Era,Capannoli,1
-2020-04-12,Alta val di Cecina Val d'Era,Peccioli,1
-2020-04-12,Alta val di Cecina Val d'Era,Pomarance,1
-2020-04-12,Alta val di Cecina Val d'Era,Ponsaco,1
-2020-04-12,Alta val di Cecina Val d'Era,Pontdera,1
+2020-04-12,Alta Val di Cecina Val d'Era,Bientina,1
+2020-04-12,Alta Val di Cecina Val d'Era,Capannoli,1
+2020-04-12,Alta Val di Cecina Val d'Era,Peccioli,1
+2020-04-12,Alta Val di Cecina Val d'Era,Pomarance,1
+2020-04-12,Alta Val di Cecina Val d'Era,Ponsaco,1
+2020-04-12,Alta Val di Cecina Val d'Era,Pontdera,1
 2020-04-12,Zona Livornese,Collesalvetti,5
 2020-04-12,Zona Livornese,Livorno,9
 2020-04-12,Elba,Rio nell'Elba,1
-2020-04-12,Bassa val di Cecina,Cecina,1
-2020-04-12,Bassa val di Cecina,Piombino,1
-2020-04-12,Bassa val di Cecina,Rosignano,3
+2020-04-12,Bassa Val di Cecina Val di Cornia,Cecina,1
+2020-04-12,Bassa Val di Cecina Val di Cornia,Piombino,1
+2020-04-12,Bassa Val di Cecina Val di Cornia,Rosignano,3
 2020-04-12,Versilia,Camaiore,2
 2020-04-12,Versilia,Pietrasanta,2
 2020-04-12,Versilia,Seravezza,1
@@ -834,14 +834,14 @@
 2020-04-13,Zona Pisana,Pisa,3
 2020-04-13,Zona Pisana,San Giuliano Terme,1
 2020-04-13,Zona Pisana,Vecchiano,1
-2020-04-13,Alta val di Cecina Val d'Era,Bientina,2
-2020-04-13,Alta val di Cecina Val d'Era,Palaia,2
-2020-04-13,Alta val di Cecina Val d'Era,Pomarance,1
-2020-04-13,Alta val di Cecina Val d'Era,Volterra,1
+2020-04-13,Alta Val di Cecina Val d'Era,Bientina,2
+2020-04-13,Alta Val di Cecina Val d'Era,Palaia,2
+2020-04-13,Alta Val di Cecina Val d'Era,Pomarance,1
+2020-04-13,Alta Val di Cecina Val d'Era,Volterra,1
 2020-04-13,Zona Livornese,Livorno,6
-2020-04-13,Bassa val di Cecina Val di Cornia,Campiglia Marittima,1
-2020-04-13,Bassa val di Cecina Val di Cornia,Piombino,1
-2020-04-13,Bassa val di Cecina Val di Cornia,Rosignano Marittimo,2
+2020-04-13,Bassa Val di Cecina Val di Cornia,Campiglia Marittima,1
+2020-04-13,Bassa Val di Cecina Val di Cornia,Piombino,1
+2020-04-13,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,2
 2020-04-13,Versilia,Camaiore,5
 2020-04-13,Versilia,Forte dei Marmi,1
 2020-04-13,Versilia,Massarosa,1
@@ -872,9 +872,9 @@
 2020-04-15,Piana di Lucca,Lucca,4
 2020-04-15,Zona Pisana,Cascina,2
 2020-04-15,Zona Pisana,Pisa,3
-2020-04-15,Alta val di Cecina Val d'Era,Casciana Terme Lari,1
-2020-04-15,Alta val di Cecina Val d'Era,Chianni,1
-2020-04-15,Alta val di Cecina Val d'Era,Pontedera,1
+2020-04-15,Alta Val di Cecina Val d'Era,Casciana Terme Lari,1
+2020-04-15,Alta Val di Cecina Val d'Era,Chianni,1
+2020-04-15,Alta Val di Cecina Val d'Era,Pontedera,1
 2020-04-15,Zona Livornese,Livorno,1
 2020-04-15,Versilia,Seravezza,1
 2020-04-15,Versilia,Viareggio,2
@@ -891,7 +891,7 @@
 2020-04-16,Valle del Serchio,Pieve Fosciana,1
 2020-04-16,Zona Pisana,Cascina,1
 2020-04-16,Zona Pisana,San Giuliano Terme,4
-2020-04-16,Alta val di Cecina Val d'Era,Volterra,1
+2020-04-16,Alta Val di Cecina Val d'Era,Volterra,1
 2020-04-16,Zona Livornese,Livorno,4
 2020-04-16,Versilia,Camaiore,2
 2020-04-16,Versilia,Forte dei Marmi,1
@@ -902,10 +902,10 @@
 2020-04-17,Valle del Serchio,Castelnuovo Garfagnana,2
 2020-04-17,Zona Pisana,Fauglia,1
 2020-04-17,Zona Pisana,Pisa,3
-2020-04-17,Alta val di Cecina Val d'Era,Pomarance,2
-2020-04-17,Alta val di Cecina Val d'Era,Pontedera,3
+2020-04-17,Alta Val di Cecina Val d'Era,Pomarance,2
+2020-04-17,Alta Val di Cecina Val d'Era,Pontedera,3
 2020-04-17,Zona Livornese,Livorno,4
-2020-04-17,Bassa val di Cecina Val di Cornia,Cecina,1
+2020-04-17,Bassa Val di Cecina Val di Cornia,Cecina,1
 2020-04-17,Versilia,Seravezza,2
 2020-04-17,Versilia,Viareggio,1
 2020-04-18,Apuane,Carrara,4
@@ -1073,11 +1073,11 @@
 2020-05-02,Zona Pisana,Cascina,2
 2020-05-02,Zona Pisana,Pisa,3
 2020-05-02,Zona Pisana,San Giuliano Terme,4
-2020-05-02,Alta val di Cecina Val d'Era,Calcinaia,1
-2020-05-02,Alta val di Cecina Val d'Era,Palaia,1
-2020-05-02,Alta val di Cecina Val d'Era,Pontedera,1
+2020-05-02,Alta Val di Cecina Val d'Era,Calcinaia,1
+2020-05-02,Alta Val di Cecina Val d'Era,Palaia,1
+2020-05-02,Alta Val di Cecina Val d'Era,Pontedera,1
 2020-05-02,Zona Livornese,Livorno,6
-2020-05-02,Bassa val di Cecina Val di Cornia,Rosignano Marittimo,2
+2020-05-02,Bassa Val di Cecina Val di Cornia,Rosignano Marittimo,2
 2020-05-02,Versilia,Forte dei Marmi,1
 2020-05-02,Versilia,Pietrasanta,3
 2020-05-02,Versilia,Seravezza,1
@@ -1110,19 +1110,19 @@
 2020-05-05,Versilia,Seravezza,1
 2020-05-06,Apuane,Massa,1
 2020-05-06,Zona Pisana,Pisa,1
-2020-05-06,Alta val di Cecina Val d'Era,Pontedera,1
+2020-05-06,Alta Val di Cecina Val d'Era,Pontedera,1
 2020-05-06,Versilia,Camaiore,1
 2020-05-06,Versilia,Massarosa,1
 2020-05-06,Versilia,Viareggio,1
 2020-05-07,Apuane,Massa,1
 2020-05-07,Piana di Lucca,Porcari,1
 2020-05-07,Zona Pisana,San Giualiano Terme,1
-2020-05-07,Bassa val di Cecina Val di Cornia,Piombino,1
+2020-05-07,Bassa Val di Cecina Val di Cornia,Piombino,1
 2020-05-08,Apuane,Massa,1
 2020-05-08,Piana di Lucca,Lucca,1
 2020-05-08,Valle del Serchio,Sillano Giuncugnano,1
 2020-05-08,Zona Pisana,Pisa,1
-2020-05-08,Alta val di Cecina Val d'Era,Casciana Terme Lari,1
+2020-05-08,Alta Val di Cecina Val d'Era,Casciana Terme Lari,1
 2020-05-08,Elba,Portoferraio,1
 2020-05-08,Versilia,Viareggio,1
 2020-05-11,Apuane,Carrara,4
@@ -1133,7 +1133,7 @@
 2020-05-11,Valle del Serchio,Castelnuovo Garfagnana,1
 2020-05-11,Valle del Serchio,Cistiglione Garfagnana,1
 2020-05-11,Zona Pisana,Vicopisano,1
-2020-05-11,Alta val di Cecina Val d'Era,Ponsacco,1
+2020-05-11,Alta Val di Cecina Val d'Era,Ponsacco,1
 2020-05-11,Zona Livornese,Livorno,3
 2020-05-11,Versilia,Camaiore,2
 2020-05-11,Versilia,Seravezza,1
